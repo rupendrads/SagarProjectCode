@@ -1,0 +1,78 @@
+Error processing file D:\AJAY MAIN\GFDLNFO_BACKADJUSTED_07082024\month\GFDLFNO_BACKADJUSTED_01022023.csv: time data "1/2/2023 9:15:59" doesn't match format "%d-%m-%Y %H:%M:%S", at position 0. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this., process_data block
+Error processing file D:\AJAY MAIN\GFDLNFO_BACKADJUSTED_07082024\month\GFDLFNO_BACKADJUSTED_01022023.csv: time data "1/2/2023 9:15:59" doesn't match format "%d-%m-%Y %H:%M:%S", at position 0. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this., process_data block
+Error processing file D:\AJAY MAIN\GFDLNFO_BACKADJUSTED_07082024\month\GFDLFNO_BACKADJUSTED_01022023.csv: time data "1/2/2023 9:15:59" doesn't match format "%d-%m-%Y %H:%M:%S", at position 0. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this., process_data block
+Error processing file D:\AJAY MAIN\GFDLNFO_BACKADJUSTED_07082024\month\GFDLFNO_BACKADJUSTED_01022023.csv: time data "1/2/2023 9:15:59" doesn't match format "%d-%m-%Y %H:%M:%S", at position 0. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this., process_data block
+Error processing file D:\AJAY MAIN\GFDLNFO_BACKADJUSTED_07082024\month\GFDLFNO_BACKADJUSTED_01022023.csv: time data "1/2/2023 9:15:59" doesn't match format "%d-%m-%Y %H:%M:%S", at position 0. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this., process_data block
+Error processing DataFrame: Unread result found in D:\AJAY MAIN\GFDLNFO_BACKADJUSTED_07082024\month\GFDLNFO_BACKADJUSTED_05082024.csv, process block
+Error processing file D:\AJAY MAIN\GFDLNFO_BACKADJUSTED_07082024\month\GFDLNFO_BACKADJUSTED_05082024.csv: Unread result found, process_data block
+Error processing file D:\AJAY MAIN\GFDLNFO_BACKADJUSTED_07082024\month\GFDLFNO_BACKADJUSTED_01022023.csv: time data "1/2/2023 9:15:59" doesn't match format "%d-%m-%Y %H:%M:%S", at position 0. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this., process_data block
+Error processing file D:\AJAY MAIN\GFDLNFO_BACKADJUSTED_07082024\month\GFDLFNO_BACKADJUSTED_01022023.csv: time data "1/2/2023 9:15:59" doesn't match format "%d-%m-%Y %H:%M:%S", at position 0. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this., process_data block
+Error processing file D:\AJAY MAIN\GFDLNFO_BACKADJUSTED_07082024\month\GFDLFNO_BACKADJUSTED_01022023.csv: time data "1/2/2023 9:15:59" doesn't match format "%d-%m-%Y %H:%M:%S", at position 0. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this., process_data block
+Error processing file D:\AJAY MAIN\GFDLNFO_BACKADJUSTED_07082024\month\GFDLFNO_BACKADJUSTED_01022023.csv: time data "1/2/2023 9:15:59" doesn't match format "%d-%m-%Y %H:%M:%S", at position 0. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this., process_data block
+Error processing file D:\AJAY MAIN\GFDLNFO_BACKADJUSTED_07082024\month\GFDLFNO_BACKADJUSTED_01022023.csv: time data "1/2/2023 9:15:59" doesn't match format "%d-%m-%Y %H:%M:%S", at position 0. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this., process_data block
+Error processing file D:\AJAY MAIN\GFDLNFO_BACKADJUSTED_07082024\month\GFDLFNO_BACKADJUSTED_01022023.csv: time data "1/2/2023 9:15:59" doesn't match format "%d-%m-%Y %H:%M:%S", at position 0. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this., process_data block
+Error processing file D:\AJAY MAIN\GFDLNFO_BACKADJUSTED_07082024\month\GFDLFNO_BACKADJUSTED_01022023.csv: time data "1/2/2023 9:15:59" doesn't match format "%d-%m-%Y %H:%M:%S", at position 0. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this., process_data block
+Error processing file D:\AJAY MAIN\GFDLNFO_BACKADJUSTED_07082024\month\GFDLFNO_BACKADJUSTED_01022023.csv: time data "1/2/2023 9:15:59" doesn't match format "%d-%m-%Y %H:%M:%S", at position 0. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this., process_data block
+Error processing file D:\AJAY MAIN\GFDLNFO_BACKADJUSTED_07082024\month\GFDLFNO_BACKADJUSTED_01022023.csv: time data "1/2/2023 9:15:59" doesn't match format "%d-%m-%Y %H:%M:%S", at position 0. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this., process_data block
+Error processing file D:\AJAY MAIN\GFDLNFO_BACKADJUSTED_07082024\month\GFDLFNO_BACKADJUSTED_01022023.csv: time data "1/2/2023 9:15:59" doesn't match format "%d-%m-%Y %H:%M:%S", at position 0. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this., process_data block
+Error processing file D:\AJAY MAIN\GFDLNFO_BACKADJUSTED_07082024\month\GFDLFNO_BACKADJUSTED_01022023.csv: time data "1/2/2023 9:15:59" doesn't match format "%d-%m-%Y %H:%M:%S", at position 0. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this., process_data block
+Error processing file D:\AJAY MAIN\GFDLNFO_BACKADJUSTED_07082024\month\GFDLFNO_BACKADJUSTED_01022023.csv: time data "1/2/2023 9:15:59" doesn't match format "%d-%m-%Y %H:%M:%S", at position 0. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this., process_data block
+Error processing file D:\AJAY MAIN\GFDLNFO_BACKADJUSTED_07082024\month\GFDLFNO_BACKADJUSTED_01022023.csv: time data "1/2/2023 9:15:59" doesn't match format "%d-%m-%Y %H:%M:%S", at position 0. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this., process_data block
+Error processing file D:\AJAY MAIN\GFDLNFO_BACKADJUSTED_07082024\month\GFDLFNO_BACKADJUSTED_01022023.csv: time data "1/2/2023 9:15:59" doesn't match format "%d-%m-%Y %H:%M:%S", at position 0. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this., process_data block

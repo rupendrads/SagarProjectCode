@@ -1,0 +1,10 @@
+{
+    "start_time": "09:15",
+    "end_time": "15:30",
+    "symbols": ["NIFTY 50"],
+    "root_flag": "live", 
+    "sandbox_url": "https://developers.symphonyfintech.in/", 
+    "live_url": "https://ttblaze.iifl.com/",
+    "timezone":"bharat",
+    "comment": "user should switch flags, sandbox for sandbox env, and live for live environment"
+}

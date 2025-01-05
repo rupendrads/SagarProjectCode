@@ -1,0 +1,2 @@
+2024-08-19 22:56:14 - Error processing file {file_path}: {str(e)}, process_data block
+

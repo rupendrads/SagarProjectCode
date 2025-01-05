@@ -1,0 +1,4 @@
+2024-09-09 11:24:59 - File exists: GFDLNFO_BACKADJUSTED_28092021.csv
+2024-09-09 11:33:43 - GFDLNFO_BACKADJUSTED_28092021.csv uploaded successfully.
+2024-09-09 11:33:43 - Total files processed: 1
+2024-09-09 11:33:43 - Total files uploaded: 1

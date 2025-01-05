@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "moment": "^2.30.1",
+    "mysql2": "^3.10.0",
+    "request": "^2.88.2",
+    "ws": "^8.17.0",
+    "xts-marketdata-api": "^3.0.10"
+  }
+}

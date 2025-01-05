@@ -1,0 +1,26 @@
+{
+    "NIFTY 50": {
+        "expiry": "2024-12-01",
+        "min_value": 31878,
+        "max_value": 37422,
+        "instrument_price": 34650
+    },
+    "NIFTY MID SELECT": {
+        "expiry": "2024-12-30",
+        "min_value": 11960,
+        "max_value": 14040,
+        "instrument_price": 13000
+    },
+    "NIFTY FIN SERVICE": {
+        "expiry": "2024-12-31",
+        "min_value": 22908,
+        "max_value": 26892,
+        "instrument_price": 24900
+    },
+    "NIFTY BANK": {
+        "expiry": "N/A",
+        "min_value": 49312,
+        "max_value": 57888,
+        "instrument_price": 53600
+    }
+}

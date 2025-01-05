@@ -1,0 +1,47 @@
+{
+	"info": {
+		"_postman_id": "a11d019e-339f-4f5e-870e-48f9c5280d08",
+		"name": "GDFL_UPLOAD",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "24840641",
+		"_collection_link": "https://test11-6303.postman.co/workspace/test-Workspace~4a8b2aea-a6c9-4f29-8524-cb37e19b448b/collection/24840641-a11d019e-339f-4f5e-870e-48f9c5280d08?action=share&source=collection_link&creator=24840641"
+	},
+	"item": [
+		{
+			"name": "http://127.0.0.1:5000/processdata",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"filepath\": \"D:\\\\AJAY MAIN\\\\GFDLNFO_BACKADJUSTED_07082024\\\\month\\\\GFDLNFO_BACKADJUSTED_07082024.csv\",\r\n    \"force_upload\": false\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://127.0.0.1:5000/processdata"
+			},
+			"response": []
+		},
+		{
+			"name": "http://127.0.0.1:5000/upload/impliedfutures",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"instrument_name\": \"nifty\",\r\n  \"start_date\": \"2021-01-01\",\r\n  \"end_date\": \"2021-12-31\",\r\n  \"strike_difference\": 50\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://127.0.0.1:5000/upload/impliedfutures"
+			},
+			"response": []
+		}
+	]
+}

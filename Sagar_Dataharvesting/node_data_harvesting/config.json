@@ -1,0 +1,20 @@
+{
+    "environment": "live", 
+    "liveSecretKey": "Rorr386#Wi",
+    "liveAppKey": "5cadff39ecbf586fabb826",
+    "liveURL": "https://ttblaze.iifl.com/apimarketdata",
+  
+    "sandboxSecretKey": "Lyep717$S4",
+    "sandboxAppKey": "4c9f454a0ef12827837933",
+    "sandboxURL": "https://developers.symphonyfintech.in/apimarketdata",
+    
+    "database": {
+        "host": "localhost",
+        "user": "root",
+        "password": "pegasus",
+        "database": "realtime_db"
+    }
+      
+      
+  }
+  

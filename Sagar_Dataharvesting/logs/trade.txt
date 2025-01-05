@@ -1,0 +1,34 @@
+Logging a message. @ 2024-05-08 23:36:41
+logged in @2024-05-08 23:36:41.166108 @ 2024-05-08 23:36:41
+sleeping again for socket @ 2024-05-08 23:36:41
+symbols subscribed @ 2024-05-08 23:36:41
+symbols subscribed @ 2024-05-08 23:37:42
+symbols subscribed @ 2024-05-08 23:38:43
+Logging a message. @ 2024-05-08 23:43:41
+logged in @2024-05-08 23:43:41.688596 @ 2024-05-08 23:43:41
+sleeping again for socket @ 2024-05-08 23:43:41
+symbols subscribed @ 2024-05-08 23:43:41
+symbols subscribed @ 2024-05-08 23:44:42
+symbols subscribed @ 2024-05-08 23:45:43
+symbols subscribed @ 2024-05-08 23:46:44
+symbols subscribed @ 2024-05-08 23:47:45
+symbols subscribed @ 2024-05-08 23:48:47
+symbols subscribed @ 2024-05-08 23:49:48
+symbols subscribed @ 2024-05-08 23:50:49
+symbols subscribed @ 2024-05-08 23:51:50
+symbols subscribed @ 2024-05-08 23:52:51
+symbols subscribed @ 2024-05-08 23:53:52
+symbols subscribed @ 2024-05-08 23:54:53
+symbols subscribed @ 2024-05-08 23:55:54
+symbols subscribed @ 2024-05-08 23:56:55
+symbols subscribed @ 2024-05-08 23:57:57
+symbols subscribed @ 2024-05-08 23:58:58
+symbols subscribed @ 2024-05-09 00:00:19
+symbols subscribed @ 2024-05-09 00:01:20
+symbols subscribed @ 2024-05-09 00:02:21
+symbols subscribed @ 2024-05-09 00:03:22
+symbols subscribed @ 2024-05-09 00:04:23
+Logging a message. @ 2024-05-09 00:04:29
+logged in @2024-05-09 00:04:29.194623 @ 2024-05-09 00:04:29
+sleeping again for socket @ 2024-05-09 00:04:29
+symbols subscribed @ 2024-05-09 00:04:29

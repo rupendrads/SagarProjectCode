@@ -1,0 +1,894 @@
+{
+    "range_data": [
+        {
+            "name": "AARTIIND",
+            "lower_range": 427,
+            "upper_range": 522
+        },
+        {
+            "name": "ABB",
+            "lower_range": 6341,
+            "upper_range": 7750
+        },
+        {
+            "name": "ABBOTINDIA",
+            "lower_range": 25698,
+            "upper_range": 31408
+        },
+        {
+            "name": "ABCAPITAL",
+            "lower_range": 181,
+            "upper_range": 221
+        },
+        {
+            "name": "ABFRL",
+            "lower_range": 267,
+            "upper_range": 327
+        },
+        {
+            "name": "ACC",
+            "lower_range": 2062,
+            "upper_range": 2521
+        },
+        {
+            "name": "ADANIENT",
+            "lower_range": 2636,
+            "upper_range": 3222
+        },
+        {
+            "name": "ADANIPORTS",
+            "lower_range": 1226,
+            "upper_range": 1498
+        },
+        {
+            "name": "ALKEM",
+            "lower_range": 5136,
+            "upper_range": 6277
+        },
+        {
+            "name": "AMBUJACEM",
+            "lower_range": 508,
+            "upper_range": 621
+        },
+        {
+            "name": "APOLLOHOSP",
+            "lower_range": 6679,
+            "upper_range": 8164
+        },
+        {
+            "name": "APOLLOTYRE",
+            "lower_range": 442,
+            "upper_range": 540
+        },
+        {
+            "name": "ASHOKLEY",
+            "lower_range": 200,
+            "upper_range": 244
+        },
+        {
+            "name": "ASIANPAINT",
+            "lower_range": 2493,
+            "upper_range": 3046
+        },
+        {
+            "name": "ASTRAL",
+            "lower_range": 1610,
+            "upper_range": 1968
+        },
+        {
+            "name": "ATUL",
+            "lower_range": 7097,
+            "upper_range": 8674
+        },
+        {
+            "name": "AUBANK",
+            "lower_range": 523,
+            "upper_range": 639
+        },
+        {
+            "name": "AUROPHARMA",
+            "lower_range": 1195,
+            "upper_range": 1460
+        },
+        {
+            "name": "AXISBANK",
+            "lower_range": 1045,
+            "upper_range": 1277
+        },
+        {
+            "name": "BAJAJ-AUTO",
+            "lower_range": 8919,
+            "upper_range": 10901
+        },
+        {
+            "name": "BAJAJFINSV",
+            "lower_range": 1566,
+            "upper_range": 1914
+        },
+        {
+            "name": "BAJFINANCE",
+            "lower_range": 6206,
+            "upper_range": 7586
+        },
+        {
+            "name": "BALKRISIND",
+            "lower_range": 2546,
+            "upper_range": 3112
+        },
+        {
+            "name": "BANDHANBNK",
+            "lower_range": 160,
+            "upper_range": 195
+        },
+        {
+            "name": "BANKBARODA",
+            "lower_range": 231,
+            "upper_range": 282
+        },
+        {
+            "name": "BATAINDIA",
+            "lower_range": 1203,
+            "upper_range": 1470
+        },
+        {
+            "name": "BEL",
+            "lower_range": 268,
+            "upper_range": 328
+        },
+        {
+            "name": "BERGEPAINT",
+            "lower_range": 454,
+            "upper_range": 555
+        },
+        {
+            "name": "BHARATFORG",
+            "lower_range": 1278,
+            "upper_range": 1562
+        },
+        {
+            "name": "BHARTIARTL",
+            "lower_range": 1413,
+            "upper_range": 1727
+        },
+        {
+            "name": "BHEL",
+            "lower_range": 215,
+            "upper_range": 263
+        },
+        {
+            "name": "BIOCON",
+            "lower_range": 289,
+            "upper_range": 353
+        },
+        {
+            "name": "BOSCHLTD",
+            "lower_range": 31607,
+            "upper_range": 38631
+        },
+        {
+            "name": "BPCL",
+            "lower_range": 279,
+            "upper_range": 341
+        },
+        {
+            "name": "BRITANNIA",
+            "lower_range": 5172,
+            "upper_range": 6322
+        },
+        {
+            "name": "BSOFT",
+            "lower_range": 511,
+            "upper_range": 624
+        },
+        {
+            "name": "CANBK",
+            "lower_range": 93,
+            "upper_range": 114
+        },
+        {
+            "name": "CANFINHOME",
+            "lower_range": 765,
+            "upper_range": 935
+        },
+        {
+            "name": "CHAMBLFERT",
+            "lower_range": 434,
+            "upper_range": 531
+        },
+        {
+            "name": "CHOLAFIN",
+            "lower_range": 1135,
+            "upper_range": 1387
+        },
+        {
+            "name": "CIPLA",
+            "lower_range": 1433,
+            "upper_range": 1752
+        },
+        {
+            "name": "COALINDIA",
+            "lower_range": 382,
+            "upper_range": 466
+        },
+        {
+            "name": "COFORGE",
+            "lower_range": 7158,
+            "upper_range": 8749
+        },
+        {
+            "name": "COLPAL",
+            "lower_range": 2584,
+            "upper_range": 3158
+        },
+        {
+            "name": "CONCOR",
+            "lower_range": 745,
+            "upper_range": 910
+        },
+        {
+            "name": "COROMANDEL",
+            "lower_range": 1577,
+            "upper_range": 1927
+        },
+        {
+            "name": "CROMPTON",
+            "lower_range": 359,
+            "upper_range": 438
+        },
+        {
+            "name": "CUB",
+            "lower_range": 161,
+            "upper_range": 197
+        },
+        {
+            "name": "CUMMINSIND",
+            "lower_range": 3290,
+            "upper_range": 4021
+        },
+        {
+            "name": "DABUR",
+            "lower_range": 478,
+            "upper_range": 585
+        },
+        {
+            "name": "DALBHARAT",
+            "lower_range": 1591,
+            "upper_range": 1945
+        },
+        {
+            "name": "DEEPAKNTR",
+            "lower_range": 2410,
+            "upper_range": 2946
+        },
+        {
+            "name": "DIVISLAB",
+            "lower_range": 5355,
+            "upper_range": 6545
+        },
+        {
+            "name": "DIXON",
+            "lower_range": 14059,
+            "upper_range": 17183
+        },
+        {
+            "name": "DLF",
+            "lower_range": 707,
+            "upper_range": 865
+        },
+        {
+            "name": "DRREDDY",
+            "lower_range": 1155,
+            "upper_range": 1412
+        },
+        {
+            "name": "EICHERMOT",
+            "lower_range": 4307,
+            "upper_range": 5264
+        },
+        {
+            "name": "ESCORTS",
+            "lower_range": 3272,
+            "upper_range": 3999
+        },
+        {
+            "name": "EXIDEIND",
+            "lower_range": 393,
+            "upper_range": 481
+        },
+        {
+            "name": "FEDERALBNK",
+            "lower_range": 186,
+            "upper_range": 227
+        },
+        {
+            "name": "GAIL",
+            "lower_range": 184,
+            "upper_range": 225
+        },
+        {
+            "name": "GLENMARK",
+            "lower_range": 1500,
+            "upper_range": 1833
+        },
+        {
+            "name": "GMRINFRA",
+            "lower_range": 72,
+            "upper_range": 88
+        },
+        {
+            "name": "GNFC",
+            "lower_range": 557,
+            "upper_range": 681
+        },
+        {
+            "name": "GODREJCP",
+            "lower_range": 1126,
+            "upper_range": 1376
+        },
+        {
+            "name": "GODREJPROP",
+            "lower_range": 2417,
+            "upper_range": 2954
+        },
+        {
+            "name": "GRANULES",
+            "lower_range": 526,
+            "upper_range": 643
+        },
+        {
+            "name": "GRASIM",
+            "lower_range": 2290,
+            "upper_range": 2799
+        },
+        {
+            "name": "GUJGASLTD",
+            "lower_range": 471,
+            "upper_range": 576
+        },
+        {
+            "name": "HAL",
+            "lower_range": 3961,
+            "upper_range": 4841
+        },
+        {
+            "name": "HAVELLS",
+            "lower_range": 1495,
+            "upper_range": 1827
+        },
+        {
+            "name": "HCLTECH",
+            "lower_range": 1654,
+            "upper_range": 2021
+        },
+        {
+            "name": "HDFCAMC",
+            "lower_range": 4036,
+            "upper_range": 4933
+        },
+        {
+            "name": "HDFCBANK",
+            "lower_range": 1579,
+            "upper_range": 1930
+        },
+        {
+            "name": "HDFCLIFE",
+            "lower_range": 638,
+            "upper_range": 779
+        },
+        {
+            "name": "HEROMOTOCO",
+            "lower_range": 4292,
+            "upper_range": 5246
+        },
+        {
+            "name": "HINDALCO",
+            "lower_range": 585,
+            "upper_range": 715
+        },
+        {
+            "name": "HINDCOPPER",
+            "lower_range": 253,
+            "upper_range": 309
+        },
+        {
+            "name": "HINDPETRO",
+            "lower_range": 345,
+            "upper_range": 421
+        },
+        {
+            "name": "HINDUNILVR",
+            "lower_range": 2257,
+            "upper_range": 2758
+        },
+        {
+            "name": "ICICIBANK",
+            "lower_range": 1133,
+            "upper_range": 1385
+        },
+        {
+            "name": "ICICIGI",
+            "lower_range": 1719,
+            "upper_range": 2101
+        },
+        {
+            "name": "ICICIPRULI",
+            "lower_range": 639,
+            "upper_range": 781
+        },
+        {
+            "name": "IDEA",
+            "lower_range": 7,
+            "upper_range": 9
+        },
+        {
+            "name": "IDFCFIRSTB",
+            "lower_range": 59,
+            "upper_range": 72
+        },
+        {
+            "name": "IEX",
+            "lower_range": 154,
+            "upper_range": 188
+        },
+        {
+            "name": "IGL",
+            "lower_range": 398,
+            "upper_range": 487
+        },
+        {
+            "name": "INDHOTEL",
+            "lower_range": 660,
+            "upper_range": 806
+        },
+        {
+            "name": "INDIAMART",
+            "lower_range": 2136,
+            "upper_range": 2611
+        },
+        {
+            "name": "INDIGO",
+            "lower_range": 3603,
+            "upper_range": 4403
+        },
+        {
+            "name": "INDUSINDBK",
+            "lower_range": 948,
+            "upper_range": 1159
+        },
+        {
+            "name": "INDUSTOWER",
+            "lower_range": 294,
+            "upper_range": 359
+        },
+        {
+            "name": "INFY",
+            "lower_range": 1647,
+            "upper_range": 2013
+        },
+        {
+            "name": "IOC",
+            "lower_range": 126,
+            "upper_range": 154
+        },
+        {
+            "name": "IPCALAB",
+            "lower_range": 1403,
+            "upper_range": 1715
+        },
+        {
+            "name": "IRCTC",
+            "lower_range": 749,
+            "upper_range": 916
+        },
+        {
+            "name": "ITC",
+            "lower_range": 430,
+            "upper_range": 526
+        },
+        {
+            "name": "JINDALSTEL",
+            "lower_range": 835,
+            "upper_range": 1021
+        },
+        {
+            "name": "JKCEMENT",
+            "lower_range": 3673,
+            "upper_range": 4489
+        },
+        {
+            "name": "JSWSTEEL",
+            "lower_range": 897,
+            "upper_range": 1096
+        },
+        {
+            "name": "JUBLFOOD",
+            "lower_range": 547,
+            "upper_range": 668
+        },
+        {
+            "name": "KOTAKBANK",
+            "lower_range": 1571,
+            "upper_range": 1920
+        },
+        {
+            "name": "LALPATHLAB",
+            "lower_range": 2754,
+            "upper_range": 3366
+        },
+        {
+            "name": "LAURUSLABS",
+            "lower_range": 449,
+            "upper_range": 549
+        },
+        {
+            "name": "LICHSGFIN",
+            "lower_range": 572,
+            "upper_range": 698
+        },
+        {
+            "name": "LT",
+            "lower_range": 3294,
+            "upper_range": 4026
+        },
+        {
+            "name": "LTF",
+            "lower_range": 126,
+            "upper_range": 154
+        },
+        {
+            "name": "LTIM",
+            "lower_range": 5334,
+            "upper_range": 6520
+        },
+        {
+            "name": "LTTS",
+            "lower_range": 4591,
+            "upper_range": 5611
+        },
+        {
+            "name": "LUPIN",
+            "lower_range": 1894,
+            "upper_range": 2315
+        },
+        {
+            "name": "M&M",
+            "lower_range": 2677,
+            "upper_range": 3272
+        },
+        {
+            "name": "M&MFIN",
+            "lower_range": 249,
+            "upper_range": 2271
+        },
+        {
+            "name": "MANAPPURAM",
+            "lower_range": 135,
+            "upper_range": 165
+        },
+        {
+            "name": "MARICO",
+            "lower_range": 567,
+            "upper_range": 693
+        },
+        {
+            "name": "MARUTI",
+            "lower_range": 10173,
+            "upper_range": 12433
+        },
+        {
+            "name": "MCX",
+            "lower_range": 5772,
+            "upper_range": 7054
+        },
+        {
+            "name": "METROPOLIS",
+            "lower_range": 1904,
+            "upper_range": 2327
+        },
+        {
+            "name": "MFSL",
+            "lower_range": 1097,
+            "upper_range": 1341
+        },
+        {
+            "name": "MGL",
+            "lower_range": 1279,
+            "upper_range": 1564
+        },
+        {
+            "name": "MOTHERSON",
+            "lower_range": 158,
+            "upper_range": 194
+        },
+        {
+            "name": "MPHASIS",
+            "lower_range": 2573,
+            "upper_range": 3144
+        },
+        {
+            "name": "MRF",
+            "lower_range": 107419,
+            "upper_range": 131290
+        },
+        {
+            "name": "MUTHOOTFIN",
+            "lower_range": 1624,
+            "upper_range": 1985
+        },
+        {
+            "name": "NATIONALUM",
+            "lower_range": 215,
+            "upper_range": 263
+        },
+        {
+            "name": "NAUKRI",
+            "lower_range": 6889,
+            "upper_range": 8420
+        },
+        {
+            "name": "NAVINFLUOR",
+            "lower_range": 3189,
+            "upper_range": 3898
+        },
+        {
+            "name": "NESTLEIND",
+            "lower_range": 2066,
+            "upper_range": 2525
+        },
+        {
+            "name": "NMDC",
+            "lower_range": 212,
+            "upper_range": 260
+        },
+        {
+            "name": "NTPC",
+            "lower_range": 358,
+            "upper_range": 437
+        },
+        {
+            "name": "OBEROIRLTY",
+            "lower_range": 1815,
+            "upper_range": 2218
+        },
+        {
+            "name": "OFSS",
+            "lower_range": 10366,
+            "upper_range": 12670
+        },
+        {
+            "name": "ONGC",
+            "lower_range": 236,
+            "upper_range": 289
+        },
+        {
+            "name": "PAGEIND",
+            "lower_range": 43203,
+            "upper_range": 52803
+        },
+        {
+            "name": "PEL",
+            "lower_range": 943,
+            "upper_range": 1152
+        },
+        {
+            "name": "PERSISTENT",
+            "lower_range": 5102,
+            "upper_range": 6236
+        },
+        {
+            "name": "PETRONET",
+            "lower_range": 296,
+            "upper_range": 362
+        },
+        {
+            "name": "PFC",
+            "lower_range": 404,
+            "upper_range": 494
+        },
+        {
+            "name": "PIDILITIND",
+            "lower_range": 2813,
+            "upper_range": 3438
+        },
+        {
+            "name": "PIIND",
+            "lower_range": 4106,
+            "upper_range": 5019
+        },
+        {
+            "name": "PNB",
+            "lower_range": 94,
+            "upper_range": 115
+        },
+        {
+            "name": "POLYCAB",
+            "lower_range": 6053,
+            "upper_range": 7398
+        },
+        {
+            "name": "POWERGRID",
+            "lower_range": 285,
+            "upper_range": 348
+        },
+        {
+            "name": "PVRINOX",
+            "lower_range": 1320,
+            "upper_range": 1614
+        },
+        {
+            "name": "RAMCOCEM",
+            "lower_range": 779,
+            "upper_range": 952
+        },
+        {
+            "name": "RBLBANK",
+            "lower_range": 149,
+            "upper_range": 182
+        },
+        {
+            "name": "RECLTD",
+            "lower_range": 463,
+            "upper_range": 566
+        },
+        {
+            "name": "RELIANCE",
+            "lower_range": 1155,
+            "upper_range": 1412
+        },
+        {
+            "name": "SAIL",
+            "lower_range": 106,
+            "upper_range": 130
+        },
+        {
+            "name": "SBICARD",
+            "lower_range": 629,
+            "upper_range": 769
+        },
+        {
+            "name": "SBILIFE",
+            "lower_range": 1413,
+            "upper_range": 1727
+        },
+        {
+            "name": "SBIN",
+            "lower_range": 759,
+            "upper_range": 927
+        },
+        {
+            "name": "SHREECEM",
+            "lower_range": 22080,
+            "upper_range": 26986
+        },
+        {
+            "name": "SHRIRAMFIN",
+            "lower_range": 2707,
+            "upper_range": 3309
+        },
+        {
+            "name": "SIEMENS",
+            "lower_range": 6457,
+            "upper_range": 7892
+        },
+        {
+            "name": "SRF",
+            "lower_range": 2075,
+            "upper_range": 2537
+        },
+        {
+            "name": "SUNPHARMA",
+            "lower_range": 1629,
+            "upper_range": 1991
+        },
+        {
+            "name": "SUNTV",
+            "lower_range": 680,
+            "upper_range": 831
+        },
+        {
+            "name": "SYNGENE",
+            "lower_range": 809,
+            "upper_range": 988
+        },
+        {
+            "name": "TATACHEM",
+            "lower_range": 991,
+            "upper_range": 1212
+        },
+        {
+            "name": "TATACOMM",
+            "lower_range": 1597,
+            "upper_range": 1952
+        },
+        {
+            "name": "TATACONSUM",
+            "lower_range": 894,
+            "upper_range": 1092
+        },
+        {
+            "name": "TATAMOTORS",
+            "lower_range": 725,
+            "upper_range": 886
+        },
+        {
+            "name": "TATAPOWER",
+            "lower_range": 389,
+            "upper_range": 476
+        },
+        {
+            "name": "TATASTEEL",
+            "lower_range": 133,
+            "upper_range": 162
+        },
+        {
+            "name": "TCS",
+            "lower_range": 3732,
+            "upper_range": 4562
+        },
+        {
+            "name": "TECHM",
+            "lower_range": 1513,
+            "upper_range": 1849
+        },
+        {
+            "name": "TITAN",
+            "lower_range": 2868,
+            "upper_range": 3505
+        },
+        {
+            "name": "TORNTPHARM",
+            "lower_range": 2880,
+            "upper_range": 3520
+        },
+        {
+            "name": "TRENT",
+            "lower_range": 5669,
+            "upper_range": 6929
+        },
+        {
+            "name": "TVSMOTOR",
+            "lower_range": 2221,
+            "upper_range": 2715
+        },
+        {
+            "name": "UBL",
+            "lower_range": 1733,
+            "upper_range": 2118
+        },
+        {
+            "name": "ULTRACEMCO",
+            "lower_range": 9939,
+            "upper_range": 12148
+        },
+        {
+            "name": "UNITDSPR",
+            "lower_range": 1304,
+            "upper_range": 1594
+        },
+        {
+            "name": "UPL",
+            "lower_range": 502,
+            "upper_range": 613
+        },
+        {
+            "name": "VEDL",
+            "lower_range": 412,
+            "upper_range": 504
+        },
+        {
+            "name": "VOLTAS",
+            "lower_range": 1589,
+            "upper_range": 1943
+        },
+        {
+            "name": "WIPRO",
+            "lower_range": 512,
+            "upper_range": 626
+        },
+        {
+            "name": "ZYDUSLIFE",
+            "lower_range": 873,
+            "upper_range": 1067
+        }
+    ]
+}

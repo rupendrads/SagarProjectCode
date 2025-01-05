@@ -1,0 +1,14 @@
+{
+    "BANKEX": {
+        "expiry": "2024-12-30",
+        "min_value": null,
+        "max_value": null,
+        "instrument_price": null
+    },
+    "SENSEX": {
+        "expiry": "2024-12-27",
+        "min_value": null,
+        "max_value": null,
+        "instrument_price": null
+    }
+}

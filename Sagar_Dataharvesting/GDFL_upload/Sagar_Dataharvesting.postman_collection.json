@@ -1,0 +1,29 @@
+{
+	"info": {
+		"_postman_id": "a11d019e-339f-4f5e-870e-48f9c5280d08",
+		"name": "Sagar_Dataharvesting",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "24840641",
+		"_collection_link": "https://test11-6303.postman.co/workspace/test-Workspace~4a8b2aea-a6c9-4f29-8524-cb37e19b448b/collection/24840641-a11d019e-339f-4f5e-870e-48f9c5280d08?action=share&source=collection_link&creator=24840641"
+	},
+	"item": [
+		{
+			"name": "http://127.0.0.1:5000/processdata",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "[\r\n    {\r\n        \"filename\": \"GFDLNFO_BACKADJUSTED_05082024.csv\",\r\n        \"force_upload\": false\r\n    },\r\n    {\r\n        \"filename\": \"GFDLNFO_BACKADJUSTED_07082024.csv\",\r\n        \"force_upload\": true\r\n    }\r\n]",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://127.0.0.1:5000/processdata"
+			},
+			"response": []
+		}
+	]
+}

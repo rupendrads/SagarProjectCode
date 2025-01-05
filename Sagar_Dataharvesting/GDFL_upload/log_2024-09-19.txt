@@ -1,0 +1,215 @@
+Log file created on 2024-09-19
+2024-09-19 17:36:58 - File does not exist: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 17:37:32 - File does not exist: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 17:37:44 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 17:38:58 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 17:48:09 - GFDLNFO_BACKADJUSTED_19062023.csv uploaded successfully.
+2024-09-19 17:48:09 - Total files processed: 1
+2024-09-19 17:48:09 - Total files uploaded: 1
+2024-09-19 17:49:57 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 17:49:57 - Skipping file GFDLNFO_BACKADJUSTED_19062023.csv: Already uploaded.
+2024-09-19 17:49:57 - Skipping file GFDLNFO_BACKADJUSTED_19062023.csv: Already uploaded.
+2024-09-19 17:49:57 - Total files processed: 1
+2024-09-19 17:49:57 - Total files uploaded: 1
+2024-09-19 18:01:35 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 18:01:35 - Skipping file GFDLNFO_BACKADJUSTED_19062023.csv: Already uploaded.
+2024-09-19 18:01:35 - Skipping file GFDLNFO_BACKADJUSTED_19062023.csv: Already uploaded.
+2024-09-19 18:01:36 - Total files processed: 1
+2024-09-19 18:01:36 - Total files uploaded: 1
+2024-09-19 18:01:42 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 18:01:42 - Skipping file GFDLNFO_BACKADJUSTED_19062023.csv: Already uploaded.
+2024-09-19 18:01:42 - Skipping file GFDLNFO_BACKADJUSTED_19062023.csv: Already uploaded.
+2024-09-19 18:01:42 - Total files processed: 1
+2024-09-19 18:01:42 - Total files uploaded: 1
+2024-09-19 18:01:50 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 18:01:50 - Skipping file GFDLNFO_BACKADJUSTED_19062023.csv: Already uploaded.
+2024-09-19 18:01:50 - Skipping file GFDLNFO_BACKADJUSTED_19062023.csv: Already uploaded.
+2024-09-19 18:01:51 - Total files processed: 1
+2024-09-19 18:01:51 - Total files uploaded: 1
+2024-09-19 18:02:08 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 18:02:08 - Skipping file GFDLNFO_BACKADJUSTED_19062023.csv: Already uploaded.
+2024-09-19 18:02:08 - Skipping file GFDLNFO_BACKADJUSTED_19062023.csv: Already uploaded.
+2024-09-19 18:02:09 - Total files processed: 1
+2024-09-19 18:02:09 - Total files uploaded: 1
+2024-09-19 18:08:19 - File does not exist: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 18:08:50 - File does not exist: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 18:10:51 - File does not exist: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 18:11:04 - File does not exist: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 18:40:13 - File does not exist: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 18:45:26 - File does not exist: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 19:07:01 - File does not exist: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 19:07:35 - File does not exist: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 19:51:10 - File does not exist: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 19:51:49 - File does not exist: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 19:51:58 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 19:54:02 - GFDLNFO_BACKADJUSTED_19062023.csv existing data is deleted
+2024-09-19 20:02:18 - D:\\Rupendra\\Work\\Sagar\\uploadGDFL\\cc\\GFDLNFO_BACKADJUSTED_19062023.csv couldn't upload
+2024-09-19 20:02:18 - GFDLNFO_BACKADJUSTED_19062023.csv reuploaded successfully.
+2024-09-19 20:02:18 - Total files processed: 1
+2024-09-19 20:02:18 - Total files uploaded: 1
+2024-09-19 20:04:36 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:06:00 - File does not exist: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:06:16 - File does not exist: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:06:35 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:09:31 - File does not exist: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:09:45 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:10:20 - File does not exist: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:10:25 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:11:04 - File does not exist: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:11:09 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:12:43 - File does not exist: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:12:52 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:14:43 - File does not exist: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:14:49 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:15:20 - File does not exist: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:15:24 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:16:18 - File does not exist: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:16:21 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:17:34 - File does not exist: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:17:41 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:18:45 - File does not exist: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:18:46 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:18:48 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:21:48 - File does not exist: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:21:54 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:27:25 - File does not exist: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:27:30 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:28:25 - File does not exist: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:28:28 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:28:55 - File does not exist: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:28:58 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:29:41 - File does not exist: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:29:45 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:31:16 - File does not exist: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:31:19 - File does not exist: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:31:41 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:33:46 - File does not exist: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:33:51 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:33:52 - D:\\Rupendra\\Work\\Sagar\\uploadGDFL\\cc\\GFDLNFO_BACKADJUSTED_19062023.csv couldn't upload
+2024-09-19 20:33:52 - Error processing file GFDLNFO_BACKADJUSTED_19062023.csv: Unread result found, process_data block
+
+2024-09-19 20:34:54 - File does not exist: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:35:08 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:35:09 - D:\\Rupendra\\Work\\Sagar\\uploadGDFL\\cc\\GFDLNFO_BACKADJUSTED_19062023.csv couldn't upload
+2024-09-19 20:35:09 - Error processing file GFDLNFO_BACKADJUSTED_19062023.csv: Unread result found, process_data block
+
+2024-09-19 20:37:44 - File does not exist: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:37:48 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:37:49 - D:\\Rupendra\\Work\\Sagar\\uploadGDFL\\cc\\GFDLNFO_BACKADJUSTED_19062023.csv couldn't upload
+2024-09-19 20:37:49 - GFDLNFO_BACKADJUSTED_19062023.csv reuploaded successfully.
+2024-09-19 20:37:49 - Total files processed: 1
+2024-09-19 20:37:49 - Total files uploaded: 0
+2024-09-19 20:41:55 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:41:56 - D:\\Rupendra\\Work\\Sagar\\uploadGDFL\\cc\\GFDLNFO_BACKADJUSTED_19062023.csv couldn't upload
+2024-09-19 20:41:56 - GFDLNFO_BACKADJUSTED_19062023.csv reuploaded successfully.
+2024-09-19 20:41:56 - Total files processed: 1
+2024-09-19 20:41:56 - Total files uploaded: 0
+2024-09-19 20:43:04 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:43:04 - Skipping file GFDLNFO_BACKADJUSTED_19062023.csv: Already uploaded.
+2024-09-19 20:43:04 - Skipping file GFDLNFO_BACKADJUSTED_19062023.csv: Already uploaded.
+2024-09-19 20:43:38 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:43:38 - D:\\Rupendra\\Work\\Sagar\\uploadGDFL\\cc\\GFDLNFO_BACKADJUSTED_19062023.csv couldn't upload
+2024-09-19 20:43:38 - GFDLNFO_BACKADJUSTED_19062023.csv reuploaded successfully.
+2024-09-19 20:43:38 - Total files processed: 1
+2024-09-19 20:43:38 - Total files uploaded: 0
+2024-09-19 20:43:49 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:43:49 - D:\\Rupendra\\Work\\Sagar\\uploadGDFL\\cc\\GFDLNFO_BACKADJUSTED_19062023.csv couldn't upload
+2024-09-19 20:43:49 - GFDLNFO_BACKADJUSTED_19062023.csv reuploaded successfully.
+2024-09-19 20:43:49 - Total files processed: 1
+2024-09-19 20:43:49 - Total files uploaded: 0
+2024-09-19 20:46:25 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:46:25 - D:\\Rupendra\\Work\\Sagar\\uploadGDFL\\cc\\GFDLNFO_BACKADJUSTED_19062023.csv couldn't upload
+2024-09-19 20:46:25 - GFDLNFO_BACKADJUSTED_19062023.csv reuploaded successfully.
+2024-09-19 20:46:25 - Total files processed: 1
+2024-09-19 20:46:25 - Total files uploaded: 0
+2024-09-19 20:47:45 - File does not exist: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:48:19 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:48:19 - D:\\Rupendra\\Work\\Sagar\\uploadGDFL\\cc\\GFDLNFO_BACKADJUSTED_19062023.csv couldn't upload
+2024-09-19 20:48:19 - GFDLNFO_BACKADJUSTED_19062023.csv reuploaded successfully.
+2024-09-19 20:48:19 - Total files processed: 1
+2024-09-19 20:48:19 - Total files uploaded: 0
+2024-09-19 20:51:26 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:51:26 - D:\\Rupendra\\Work\\Sagar\\uploadGDFL\\cc\\GFDLNFO_BACKADJUSTED_19062023.csv couldn't upload
+2024-09-19 20:51:26 - GFDLNFO_BACKADJUSTED_19062023.csv reuploaded successfully.
+2024-09-19 20:51:26 - Total files processed: 1
+2024-09-19 20:51:26 - Total files uploaded: 0
+2024-09-19 20:52:03 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:52:03 - D:\\Rupendra\\Work\\Sagar\\uploadGDFL\\cc\\GFDLNFO_BACKADJUSTED_19062023.csv couldn't upload
+2024-09-19 20:52:03 - GFDLNFO_BACKADJUSTED_19062023.csv reuploaded successfully.
+2024-09-19 20:52:03 - Total files processed: 1
+2024-09-19 20:52:03 - Total files uploaded: 1
+2024-09-19 20:54:20 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 20:54:20 - D:\\Rupendra\\Work\\Sagar\\uploadGDFL\\cc\\GFDLNFO_BACKADJUSTED_19062023.csv couldn't upload
+2024-09-19 20:54:20 - GFDLNFO_BACKADJUSTED_19062023.csv reuploaded successfully.
+2024-09-19 20:54:20 - Total files processed: 1
+2024-09-19 20:54:20 - Total files uploaded: 1
+2024-09-19 21:00:37 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 21:00:37 - D:\\Rupendra\\Work\\Sagar\\uploadGDFL\\cc\\GFDLNFO_BACKADJUSTED_19062023.csv couldn't upload
+2024-09-19 21:00:37 - GFDLNFO_BACKADJUSTED_19062023.csv reuploaded successfully.
+2024-09-19 21:00:37 - Total files processed: 1
+2024-09-19 21:00:37 - Total files uploaded: 1
+2024-09-19 21:01:17 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 21:01:17 - D:\\Rupendra\\Work\\Sagar\\uploadGDFL\\cc\\GFDLNFO_BACKADJUSTED_19062023.csv couldn't upload
+2024-09-19 21:01:17 - GFDLNFO_BACKADJUSTED_19062023.csv reuploaded successfully.
+2024-09-19 21:01:17 - Total files processed: 1
+2024-09-19 21:01:17 - Total files uploaded: 1
+2024-09-19 21:02:38 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 21:02:38 - D:\\Rupendra\\Work\\Sagar\\uploadGDFL\\cc\\GFDLNFO_BACKADJUSTED_19062023.csv couldn't upload
+2024-09-19 21:02:38 - GFDLNFO_BACKADJUSTED_19062023.csv reuploaded successfully.
+2024-09-19 21:02:38 - Total files processed: 1
+2024-09-19 21:02:38 - Total files uploaded: 1
+2024-09-19 21:03:33 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 21:03:34 - D:\\Rupendra\\Work\\Sagar\\uploadGDFL\\cc\\GFDLNFO_BACKADJUSTED_19062023.csv couldn't upload
+2024-09-19 21:03:34 - GFDLNFO_BACKADJUSTED_19062023.csv reuploaded successfully.
+2024-09-19 21:03:34 - Total files processed: 1
+2024-09-19 21:03:34 - Total files uploaded: 1
+2024-09-19 21:04:02 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 21:04:02 - D:\\Rupendra\\Work\\Sagar\\uploadGDFL\\cc\\GFDLNFO_BACKADJUSTED_19062023.csv couldn't upload
+2024-09-19 21:04:02 - GFDLNFO_BACKADJUSTED_19062023.csv reuploaded successfully.
+2024-09-19 21:04:02 - Total files processed: 1
+2024-09-19 21:04:02 - Total files uploaded: 1
+2024-09-19 21:04:42 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 21:04:42 - D:\\Rupendra\\Work\\Sagar\\uploadGDFL\\cc\\GFDLNFO_BACKADJUSTED_19062023.csv couldn't upload
+2024-09-19 21:04:42 - GFDLNFO_BACKADJUSTED_19062023.csv reuploaded successfully.
+2024-09-19 21:04:42 - Total files processed: 1
+2024-09-19 21:04:42 - Total files uploaded: 1
+2024-09-19 21:05:48 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 21:05:48 - D:\\Rupendra\\Work\\Sagar\\uploadGDFL\\cc\\GFDLNFO_BACKADJUSTED_19062023.csv couldn't upload
+2024-09-19 21:05:48 - GFDLNFO_BACKADJUSTED_19062023.csv reuploaded successfully.
+2024-09-19 21:05:48 - Total files processed: 1
+2024-09-19 21:05:48 - Total files uploaded: 1
+2024-09-19 21:06:33 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 21:06:33 - D:\\Rupendra\\Work\\Sagar\\uploadGDFL\\cc\\GFDLNFO_BACKADJUSTED_19062023.csv couldn't upload
+2024-09-19 21:06:33 - GFDLNFO_BACKADJUSTED_19062023.csv reuploaded successfully.
+2024-09-19 21:06:33 - Total files processed: 1
+2024-09-19 21:06:33 - Total files uploaded: 1
+2024-09-19 21:07:04 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 21:07:04 - D:\\Rupendra\\Work\\Sagar\\uploadGDFL\\cc\\GFDLNFO_BACKADJUSTED_19062023.csv couldn't upload
+2024-09-19 21:07:04 - GFDLNFO_BACKADJUSTED_19062023.csv reuploaded successfully.
+2024-09-19 21:07:04 - Total files processed: 1
+2024-09-19 21:07:04 - Total files uploaded: 1
+2024-09-19 21:08:09 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 21:08:09 - D:\\Rupendra\\Work\\Sagar\\uploadGDFL\\cc\\GFDLNFO_BACKADJUSTED_19062023.csv couldn't upload
+2024-09-19 21:08:09 - GFDLNFO_BACKADJUSTED_19062023.csv reuploaded successfully.
+2024-09-19 21:08:09 - Total files processed: 1
+2024-09-19 21:08:09 - Total files uploaded: 1
+2024-09-19 21:09:16 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 21:09:16 - D:\\Rupendra\\Work\\Sagar\\uploadGDFL\\cc\\GFDLNFO_BACKADJUSTED_19062023.csv couldn't upload
+2024-09-19 21:09:16 - GFDLNFO_BACKADJUSTED_19062023.csv reuploaded successfully.
+2024-09-19 21:09:16 - Total files processed: 1
+2024-09-19 21:09:16 - Total files uploaded: 1
+2024-09-19 21:14:15 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 21:14:15 - GFDLNFO_BACKADJUSTED_19062023.csv Re uploaded successfully.
+2024-09-19 21:14:15 - GFDLNFO_BACKADJUSTED_19062023.csv reuploaded successfully.
+2024-09-19 21:14:15 - Total files processed: 1
+2024-09-19 21:14:15 - Total files uploaded: 1
+2024-09-19 21:16:55 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 21:16:55 - GFDLNFO_BACKADJUSTED_19062023.csv Re uploaded successfully.
+2024-09-19 21:16:55 - GFDLNFO_BACKADJUSTED_19062023.csv reuploaded successfully.
+2024-09-19 21:16:55 - Total files processed: 1
+2024-09-19 21:16:55 - Total files uploaded: 1
+2024-09-19 21:18:15 - File exists: GFDLNFO_BACKADJUSTED_19062023.csv
+2024-09-19 21:18:15 - GFDLNFO_BACKADJUSTED_19062023.csv Re uploaded successfully.
+2024-09-19 21:18:15 - GFDLNFO_BACKADJUSTED_19062023.csv reuploaded successfully.
+2024-09-19 21:18:15 - Total files processed: 1
+2024-09-19 21:18:15 - Total files uploaded: 1

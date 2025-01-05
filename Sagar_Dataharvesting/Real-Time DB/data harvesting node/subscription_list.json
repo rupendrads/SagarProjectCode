@@ -1,0 +1,3866 @@
+[
+    {
+        "exchangeInstrumentID": 26000,
+        "exchangeSegment": 1
+    },
+    {
+        "exchangeInstrumentID": 26001,
+        "exchangeSegment": 1
+    },
+    {
+        "exchangeInstrumentID": 35005,
+        "exchangeSegment": 1
+    },
+    {
+        "exchangeInstrumentID": 35006,
+        "exchangeSegment": 1
+    },
+    {
+        "exchangeInstrumentID": 35004,
+        "exchangeSegment": 1
+    },
+    {
+        "exchangeInstrumentID": 35007,
+        "exchangeSegment": 1
+    },
+    {
+        "exchangeInstrumentID": 35426,
+        "exchangeSegment": 1
+    },
+    {
+        "exchangeInstrumentID": 35239,
+        "exchangeSegment": 1
+    },
+    {
+        "exchangeInstrumentID": 35025,
+        "exchangeSegment": 1
+    },
+    {
+        "exchangeInstrumentID": 35012,
+        "exchangeSegment": 1
+    },
+    {
+        "exchangeInstrumentID": 50812,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 64594,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 50854,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 64708,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 50853,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 64595,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 50855,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 64709,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 47176,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 47178,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 47181,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 64710,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 47177,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 47179,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 47182,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 64711,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 45755,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 45790,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 45831,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 64763,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 45759,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 45791,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 45835,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 64764,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 45750,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 45783,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 45829,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 64755,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 45754,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 45789,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 45830,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 64756,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 45744,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 45774,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 45806,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 64737,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 45745,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 45776,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 45809,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 64738,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 45746,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 45777,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 45810,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 64739,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 45747,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 45779,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 45828,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 64754,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46992,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 40009,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46994,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 40010,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46813,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39659,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46814,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39660,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46787,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39625,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46788,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39626,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46774,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39615,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46775,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39616,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46795,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39634,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46796,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39639,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46748,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39573,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46749,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39574,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46953,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39765,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46958,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39766,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46791,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39629,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46794,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39633,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 67069,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39532,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 67070,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39533,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43557,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39520,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43558,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39521,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 67077,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39770,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 67078,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39771,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43577,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39528,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43579,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39529,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46759,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39583,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46760,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39584,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46977,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39774,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46984,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39775,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46849,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39721,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46854,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39725,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43519,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39516,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43520,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39517,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46927,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39759,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46928,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39760,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46824,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39682,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46825,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39684,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46789,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39627,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46790,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39628,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46985,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39779,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46986,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39781,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43768,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39543,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43769,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39544,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46691,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39555,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46693,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39556,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46801,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39655,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46802,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39656,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43599,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39536,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43600,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39537,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46737,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39567,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46747,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39568,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46920,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39757,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46926,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39758,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46530,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39549,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46540,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39550,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46893,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39747,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46900,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39748,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46830,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39715,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46831,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39716,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43588,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39530,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43591,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39531,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46735,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39561,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46736,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39562,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46826,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39704,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46827,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39705,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46943,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39763,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46951,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39764,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46901,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39749,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46908,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39750,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46776,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39621,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46777,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39622,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46929,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39761,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46942,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39762,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46998,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 40046,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 47014,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 40047,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46778,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39623,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46786,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39624,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46752,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39577,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46753,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39578,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46771,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39609,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46772,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39610,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46869,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39732,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46874,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39733,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 67071,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39569,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 67072,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39570,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 67067,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39498,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 67068,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39499,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46696,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39559,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46730,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39560,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46909,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39755,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46918,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39756,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46987,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39927,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46988,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39928,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46761,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39595,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46762,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39596,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46818,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39664,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46822,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39679,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43561,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39522,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43563,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39523,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43609,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39541,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43765,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39542,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43462,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39503,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43463,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39504,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43516,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39513,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43517,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39515,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46880,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39736,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46883,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39739,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46855,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39726,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46866,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39727,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46678,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39553,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46690,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39554,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46996,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 40015,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46997,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 40016,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46989,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39932,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46991,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39939,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43508,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39510,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43515,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39511,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46541,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39551,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46676,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39552,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43592,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39534,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43597,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39535,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46959,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39768,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46974,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39769,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46769,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39601,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46770,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39602,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43437,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39496,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43438,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39497,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43567,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39526,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43568,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39527,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46803,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39657,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46812,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39658,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43545,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39518,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43546,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39519,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46815,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39662,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46816,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39663,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46975,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39772,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46976,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39773,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46694,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39557,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46695,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39558,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 67073,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39649,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 67074,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39650,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46867,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39728,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46868,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39729,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43450,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39500,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43451,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39501,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43504,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39508,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43505,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39509,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43484,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39506,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43485,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39507,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46877,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39734,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46879,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39735,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46528,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39547,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46529,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39548,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 67075,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39730,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 67076,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39731,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46886,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39741,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46888,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39742,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43564,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39524,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43565,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39525,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46797,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39652,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46800,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39653,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46750,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39575,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46751,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39576,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46891,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39745,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46892,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39746,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46841,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39719,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46842,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39720,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46828,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39711,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46829,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39712,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43773,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39545,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 46527,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 39546,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54569,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42299,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54570,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42300,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54827,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 44568,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54828,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 44569,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37265,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37266,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54591,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42692,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54592,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42693,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54735,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43336,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54736,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43337,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36994,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36995,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54599,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42773,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54600,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42774,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54737,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43338,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54738,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43340,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54733,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43326,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54734,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43335,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54821,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 44548,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54822,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 44549,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36855,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36857,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 51885,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42084,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 51893,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42085,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 51894,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42088,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 51907,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42089,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54823,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 44550,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54824,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 44552,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54707,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43129,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54710,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43130,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54607,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42971,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54608,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42972,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 52391,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42181,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 52392,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42183,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54747,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 44540,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54748,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 44541,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54743,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 44427,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54744,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 44428,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54575,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42311,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54576,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42313,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54613,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43115,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54688,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43116,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36968,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36970,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54601,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42775,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54602,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42776,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 52386,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42179,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 52389,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42180,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36833,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36836,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 51882,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42082,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 51883,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42083,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36919,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36920,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37274,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37296,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54739,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43341,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54740,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43348,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36983,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36985,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37039,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37040,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37011,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37012,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54603,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42780,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54604,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42781,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54593,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42708,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54594,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42711,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36837,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36838,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54609,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42982,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54610,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42986,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36825,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36826,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36849,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36852,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54825,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 44557,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54826,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 44559,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36873,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36882,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54605,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42903,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54606,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42904,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54577,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42322,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54578,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42323,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36989,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36990,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37062,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37064,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54745,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 44433,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54746,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 44434,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54741,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 44419,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54742,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 44420,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37031,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37032,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37041,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37042,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37043,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37044,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54567,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42244,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54568,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42245,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54731,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43324,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54732,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43325,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54611,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42996,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54612,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42997,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54829,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 44570,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54830,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 44571,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37267,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37268,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36817,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36818,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54595,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42752,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54596,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42753,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36831,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36832,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37026,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37027,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37029,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37030,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37035,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37038,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37058,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37059,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54597,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42754,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54598,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42755,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54729,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43167,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54730,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 43168,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54587,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42631,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54588,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 42632,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54813,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 44542,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 54814,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 44543,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37096,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37183,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36883,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36884,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37086,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37087,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37080,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37081,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37047,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37053,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36829,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36830,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37016,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37017,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36923,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36963,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37297,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37311,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36819,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36820,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36858,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36863,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36905,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36906,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36823,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36824,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37349,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37350,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37006,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36581,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37009,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36582,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36957,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36543,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36958,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36544,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37104,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36704,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37105,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36705,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37002,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36552,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37003,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36553,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36807,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36440,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36808,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36456,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36781,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36384,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36784,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36385,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37050,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36625,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37051,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36627,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37117,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36771,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37118,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36772,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36785,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36408,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36786,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36415,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36951,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36526,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36952,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36527,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37381,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37091,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37386,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37099,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37225,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36928,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37228,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36932,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36914,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36501,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36924,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36509,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36767,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36378,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36768,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36379,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37301,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36973,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37302,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36988,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37374,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37074,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37375,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37082,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36872,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36465,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36877,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36473,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37139,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36821,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37145,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36822,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37220,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36926,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37221,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36927,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37308,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36997,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37315,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37025,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36880,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36476,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36885,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36479,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37253,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36945,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37254,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36946,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36866,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36460,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36868,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36464,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37208,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36918,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37211,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36925,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37198,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36897,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37199,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36903,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37166,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36862,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37168,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36867,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37084,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36672,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37088,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36679,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37130,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36815,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37138,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36816,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37176,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36888,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37179,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36890,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37169,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36869,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37170,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36870,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37376,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37085,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37379,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37090,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36878,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36474,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36879,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36475,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37072,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36647,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37073,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36665,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37010,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36584,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37013,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36585,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36797,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36416,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36798,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36439,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37251,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36942,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37252,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36944,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37000,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36548,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37001,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36549,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36841,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36458,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36842,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36459,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36936,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36520,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36937,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36521,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37306,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36991,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37307,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36993,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36607,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36338,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36608,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36339,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37316,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37028,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37004,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36560,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37005,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36578,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36615,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36362,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36618,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36363,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37149,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36827,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37150,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36828,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37070,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36638,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37071,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36639,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36902,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36493,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36913,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36500,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37276,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36967,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37277,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36972,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37180,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36891,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37193,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36892,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37106,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36731,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37112,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36756,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37162,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36844,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37163,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36861,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37122,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36811,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37123,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36812,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36955,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36537,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36956,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36538,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37171,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36874,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37172,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36881,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37204,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36908,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37207,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36917,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36611,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36343,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36614,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36356,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37054,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36628,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37055,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36633,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37200,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36904,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37203,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36907,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37326,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37037,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37327,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37056,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37033,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36595,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37034,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36600,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36953,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36528,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36954,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36530,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37257,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36949,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37258,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36966,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37048,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36601,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37049,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36619,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37019,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36588,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37020,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36592,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37242,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36934,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37243,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36935,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36886,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36480,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37245,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36940,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37246,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36941,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36938,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36522,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36939,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36523,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36947,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36524,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36948,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36525,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37023,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36593,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37024,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36594,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36986,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36545,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36992,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36546,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36929,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36516,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36931,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36517,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37089,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36680,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37101,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36683,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36889,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36489,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36761,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36371,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37120,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36773,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37121,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36810,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37328,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37057,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37331,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37060,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37102,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36684,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37103,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36699,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37388,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37100,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37390,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37127,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36762,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36372,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37194,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36895,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37197,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36896,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37354,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37061,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37357,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37069,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37126,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36813,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37129,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36814,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37155,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36834,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37161,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36843,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37078,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36666,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37083,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 36669,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37325,
+        "exchangeSegment": 2
+    },
+    {
+        "exchangeInstrumentID": 37036,
+        "exchangeSegment": 2
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "exchangeInstrumentID": 26065,
+        "lower_range": 72515,
+        "upper_range": 88629,
+        "name": "SENSEX"
+    },
+    {
+        "exchangeInstrumentID": 26118,
+        "lower_range": 53489,
+        "upper_range": 65375,
+        "name": "BANKEX"
+    },
+    {
+        "exchangeInstrumentID": 26000,
+        "lower_range": 22548,
+        "upper_range": 27558,
+        "name": "NIFTY 50"
+    },
+    {
+        "exchangeInstrumentID": 26001,
+        "lower_range": 46993,
+        "upper_range": 57435,
+        "name": "NIFTY BANK"
+    },
+    {
+        "exchangeInstrumentID": 26034,
+        "lower_range": 21704,
+        "upper_range": 26527,
+        "name": "NIFTY FIN SERVICE"
+    },
+    {
+        "exchangeInstrumentID": 26121,
+        "lower_range": 11497,
+        "upper_range": 14051,
+        "name": "NIFTY MID SELECT"
+    }
+]

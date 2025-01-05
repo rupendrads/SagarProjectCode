@@ -1,0 +1,32 @@
+Started Again  : start_watchdog_thread  @ 2024-06-30 20:56:36
+06-30 20:56:36.296758 @ 2024-06-30 20:56:36
+total_seconds: 0.01563 data_timeout: 60 @ 2024-06-30 20:56:36
+Connecting... @ 2024-06-30 20:56:36
+Watchdog: Last message time: 2024-06-30 20:57:27.645899 - 2024-06-30 20:57:27.645899 @ 2024-06-30 20:57:27
+Started Again  : start_watchdog_thread  @ 2024-06-30 20:57:27
+total_seconds: 0.0 data_timeout: 60 @ 2024-06-30 20:57:27
+Connecting... @ 2024-06-30 20:57:27
+Watchdog: Last message time: 2024-06-30 20:57:57.657302 - 2024-06-30 20:57:57.481471 @ 2024-06-30 20:57:57
+total_seconds: 0.175831 data_timeout: 60 @ 2024-06-30 20:57:57
+Watchdog: Last message time: 2024-06-30 20:58:54.422641 - 2024-06-30 20:58:54.422641 @ 2024-06-30 20:58:54
+Started Again  : start_watchdog_thread  @ 2024-06-30 20:58:54
+total_seconds: 0.015647 data_timeout: 60 @ 2024-06-30 20:58:54
+Connecting... @ 2024-06-30 20:58:54
+Watchdog: Last message time: 2024-06-30 21:00:35.510287 - 2024-06-30 21:00:35.510287 @ 2024-06-30 21:00:35
+Started Again  : start_watchdog_thread  @ 2024-06-30 21:00:35
+total_seconds: 0.0 data_timeout: 60 @ 2024-06-30 21:00:35
+Connecting... @ 2024-06-30 21:00:35
+Watchdog: Last message time: 2024-06-30 21:01:05.515903 - 2024-06-30 21:01:05.100144 @ 2024-06-30 21:01:05
+total_seconds: 0.062497 data_timeout: 60 @ 2024-06-30 21:01:05
+Watchdog: Last message time: 2024-06-30 21:03:35.207557 - 2024-06-30 21:03:35.207557 @ 2024-06-30 21:03:35
+Started Again  : start_watchdog_thread  @ 2024-06-30 21:03:35
+total_seconds: 0.0 data_timeout: 60 @ 2024-06-30 21:03:35
+Connecting... @ 2024-06-30 21:03:35
+Watchdog: Last message time: 2024-06-30 21:04:41.844206 - 2024-06-30 21:04:41.844206 @ 2024-06-30 21:04:41
+Started Again  : start_watchdog_thread  @ 2024-06-30 21:04:41
+total_seconds: 0.015642 data_timeout: 60 @ 2024-06-30 21:04:41
+Connecting... @ 2024-06-30 21:04:41
+Watchdog: Last message time: 2024-06-30 21:06:18.869203 - 2024-06-30 21:06:18.869203 @ 2024-06-30 21:06:18
+Started Again  : start_watchdog_thread  @ 2024-06-30 21:06:18
+total_seconds: 0.0 data_timeout: 60 @ 2024-06-30 21:06:18
+Connecting... @ 2024-06-30 21:06:18
