@@ -1,0 +1,36 @@
+
+
+get_underlying_ltp => done
+get_index_details => done 
+calculate_overall_pnl 
+receive_trades
+stoploss_trail => lock, lock and trail
+selection_criteria => can be tested only in live without using interactive api 
+simple_momentum
+range breakout
+leg_place_order
+calculate_mtm
+roll_strike_handler
+Publisher
+add_trade_subscriber
+stoploss =>done
+limit order => done
+market_order => done
+event driven orders for SL and modify order
+
+=======================================================================================
+Pending task
+=======================================================================================
+
+1.  Lots size should be removed from configuration and take from nfo.json
+2.  Code segregation. This should done individual method for feature business logic
+3.  Range BreakOut and momentum logic
+4.  Testing Logger logic
+5.  Sandbox not supporting partial order for now
+6.  Backfilling options data for consistency
+7.  Multiple strategy with single Market data
+8.  Broker wise Strategy Execustion
+9.  UI LIve Design for Dashboard
+10. User Role Management
+11. Unit Test Case for Live code
+12. 

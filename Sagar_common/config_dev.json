@@ -1,0 +1,83 @@
+{
+    "db_index_data": {
+        "host": "localhost",
+        "user": "root",
+        "password": "pegasus",
+        "database": "index_data"
+    },
+    "db_sagar_strategy": {
+        "host": "localhost",
+        "user": "root",
+        "password": "root",
+        "database": "sagar_strategy"
+    },
+	  "db_sagar_dataharvesting": {
+        "host": "localhost",
+        "user": "root",
+        "password": "pegasus",
+        "database": "sagar_dataharvesting"
+    },
+	"db_sagar_users": {
+        "host": "localhost",
+        "user": "root",
+        "password": "root",
+        "database": "sagar_users"
+    },
+    "lotSize": {
+      "BANKNIFTY_LOT_SIZE": 15,
+      "NIFTY_LOT_SIZE": 25,
+      "FINNIFTY_LOT_SIZE": 25,
+      "MIDCAPNIFTY_LOT_SIZE": 75,
+      "SENSEX_LOT_SIZE": 10
+    },
+    "validIndices": [],
+    "strikeDifference": {
+      "BANKNIFTY_BASE": 100,
+      "NIFTY_BASE": 50,
+      "FINNIFTY_BASE": 50,
+      "MIDCAPNIFTY_BASE": 100,
+      "SENSEX_BASE": 100
+    },
+    "dbConfig": {
+      "host": "localhost",
+      "user": "root",
+      "password": "pegasus",
+      "database": "index_data"
+    },
+    "timeFormat": "%H:%M:%S",
+    "charges": {
+      "exchangeTransactionCharge": 0.03503,
+      "stt": 0.05,
+      "sebiCharge": 0.000118,
+      "stampDuty": 0.003,
+      "ctt": 0.1,
+      "brokerage": 20,
+      "ipft": 50
+    },
+    "strategyDbConfig": {
+      "host": "localhost",
+      "user": "root",
+      "password": "pegasus",
+      "database": "sagar_strategy"
+    },
+  
+    
+    "live_creds": {
+        "market_key": "d06e78e147a17d6bd8f856",
+        "market_secret": "Disn468#$B",
+        "interactive_key": "8e39993d7a17660f960145",
+        "interactive_secret": "Hkrp044@eR",
+        "port": "https://ttblaze.iifl.com"
+    },
+
+    "strike_range": {
+       "range" : 8
+    },
+
+    "log_settings":{
+      "print_enabled":true, 
+      "strategy_wise_log_files": true
+    }
+    
+  }
+  
