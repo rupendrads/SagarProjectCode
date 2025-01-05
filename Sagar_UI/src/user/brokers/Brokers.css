@@ -1,0 +1,37 @@
+.brokers-container {
+  display: flex;
+  justify-content: flex-start;
+  width: fit-content;
+  min-width: 421px;
+  padding-left: 10px;
+
+  .broker_setup_card {
+    display: flex;
+    margin-bottom: 20px;
+
+    .broker_setup_row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+
+      .setup-button {
+        border: 1px solid #198754;
+      }
+    }
+
+    .broker_name {
+      margin-bottom: 0px;
+      width: 200px;
+    }
+  }
+
+  .brokers-button-row {
+    width: 100%;
+    margin-top: 15px;
+    padding-left: 80px;
+
+    .theme_button {
+      width: 100%;
+    }
+  }
+}

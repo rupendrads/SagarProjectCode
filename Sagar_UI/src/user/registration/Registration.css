@@ -1,0 +1,15 @@
+.register-container {
+  display: flex;
+  justify-content: center;
+  width: fit-content;
+  min-width: 421px;
+}
+
+.registration-sidebar {
+  display: flex;
+}
+
+.registration-steps-container {
+  display: flex;
+  width: 300px;
+}

@@ -1,0 +1,53 @@
+.flex-row {
+  margin-bottom: 20px;
+}
+
+.leg {
+  flex-direction: column !important;
+}
+
+.align-bottom {
+  display: flex;
+  align-items: flex-end;
+}
+.align-top {
+  display: flex;
+  align-items: flex-start;
+}
+
+.straddle-width-value {
+  width: 50px;
+}
+
+.simple-momentum {
+  width: 70px;
+}
+
+input#atmstraddlepremiumpercent {
+  width: 80px;
+}
+
+.leg-no {
+  color: #198754;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.remove-leg {
+  background-color: #198754;
+  color: #fff;
+}
+.remove-leg:hover {
+  background-color: #198754;
+  color: #fff;
+}
+
+.with-sign {
+  display: flex;
+  flex-direction: row;
+  .sign {
+    margin-left: 5px;
+  }
+}

@@ -1,0 +1,140 @@
+div[disabled] {
+  pointer-events: none;
+}
+
+#btn_optimization_strategy[disabled] {
+  background-color: #198754;
+  color: #fff;
+}
+
+.optimization-date-input-wrapper-div {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.optimization-date-input-wrapper {
+  display: flex;
+  flex-direction: row;
+  gap: 9px;
+}
+
+.optimization-extra-info-label-wrapper {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.optimization-extra-info-label {
+  margin-bottom: 0px;
+}
+
+.optimization-save-button-row {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.optimization-index-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 5px;
+}
+
+.optimization-brokerage-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 5px;
+
+  input[type="text"] {
+    width: 70px;
+  }
+}
+
+.optimization-strategy-content {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  overflow: hidden;
+}
+
+.optimization-strategy-input {
+  margin-bottom: 20px;
+}
+
+.optimization-strategy-box {
+  .box {
+    padding-bottom: 0;
+  }
+
+  .optimization-strategy-box-title {
+    background-color: #198754;
+    color: #fff;
+    padding: 3px 5px;
+    border-radius: 3px;
+  }
+  .title-hr {
+    margin: 0rem 0;
+  }
+}
+
+.show-hide-button-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: fit-content;
+  gap: 5px;
+  border: 1px solid #198754;
+  border-radius: 13px;
+  margin-left: 10px;
+  padding-right: 10px;
+  cursor: pointer;
+
+  label {
+    margin-bottom: 0px;
+    cursor: pointer;
+  }
+
+  .show-hide-label {
+    opacity: 0;
+    display: none;
+  }
+
+  .show-hide-label-animate {
+    display: block;
+    animation: fadeIn 2400ms;
+  }
+}
+
+.show-hide-button {
+  overflow: hidden;
+  transition-duration: 800ms;
+  transition-property: transform;
+}
+
+.show-hide-button-up {
+  transform: rotate(0deg);
+}
+
+.show-hide-button-down {
+  transform: rotate(180deg);
+}
+
+.optimization-strategy-box {
+  height: fit-content;
+  transition-property: max-height;
+  transition-duration: 800ms;
+  overflow: hidden;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "TaxAndCharges": {
+    "ClearingCharges": 20,
+    "IPFT": 20,
+    "STT": 10,
+    "StampDuty": 20,
+    "SEBICharges": 30.2,
+    "ExchangeCharges": 20,
+    "GST": 36,
+    "Total": 136.2
+  },
+  "OverallPerformance": {
+    "TotalProfit": 3628.75,
+    "NetProfit": 3000.75,
+    "OverallLoss": 2000,
+    "OverallProfit": 2000,
+    "DaysProfit": 21,
+    "DaysLoss": 172.8,
+    "TotalTradingDays": 172.8,
+    "AverageProfit": 61.9,
+    "AverageLoss": 38.1,
+    "RiskToRewardRatio": 707.5,
+    "MaxProfitInSingleTrade": 1506.25,
+    "MaxLossInSingleTrade": -1412.5,
+    "MaxDrawdown": -2373.75,
+    "DurationOfMaxDrawdown": {
+      "days": 7,
+      "start": "4/6/2021",
+      "end": "4/12/2021"
+    },
+    "MaxDDPeriod": 20,
+    "RewardToRiskRatio": 1.02,
+    "ExpectancyRatio": 0.25,
+    "MaxWinningStreak": 4,
+    "MaxLosingStreak": 2
+  },
+  "YearlyData": [
+    {
+      "Year": 2021,
+      "MonthlyPerformance": {
+        "Jan": 0,
+        "Feb": 0,
+        "Mar": 0,
+        "Apr": 4221,
+        "May": -592,
+        "Jun": 0,
+        "Jul": 0,
+        "Aug": 0,
+        "Sep": 0,
+        "Oct": 0,
+        "Nov": 0,
+        "Dec": 0
+      },
+      "Total": 3628,
+      "MaxDrawdown": -2373,
+      "DaysForMaxDrawdown": 7,
+      "DurationOfMaxDrawdown": {
+        "start": "4/6/2021",
+        "end": "4/12/2021"
+      },
+      "ReturnToMaxDDYearly": 17.99
+    },
+    {
+      "Year": 2022,
+      "MonthlyPerformance": {
+        "Jan": 500,
+        "Feb": 1000,
+        "Mar": 1200,
+        "Apr": -400,
+        "May": 800,
+        "Jun": 0,
+        "Jul": 0,
+        "Aug": 0,
+        "Sep": 0,
+        "Oct": 0,
+        "Nov": 0,
+        "Dec": 0
+      },
+      "Total": 3100,
+      "MaxDrawdown": -1200,
+      "DaysForMaxDrawdown": 5,
+      "DurationOfMaxDrawdown": {
+        "start": "3/15/2022",
+        "end": "3/20/2022"
+      },
+      "ReturnToMaxDDYearly": 12.5
+    },
+
+    {
+      "Year": 2023,
+      "MonthlyPerformance": {
+        "Jan": 200,
+        "Feb": 400,
+        "Mar": -100,
+        "Apr": 500,
+        "May": 0,
+        "Jun": 600,
+        "Jul": 0,
+        "Aug": -200,
+        "Sep": 0,
+        "Oct": 0,
+        "Nov": 0,
+        "Dec": 0
+      },
+      "Total": 1400,
+      "MaxDrawdown": -700,
+      "DaysForMaxDrawdown": 4,
+      "DurationOfMaxDrawdown": {
+        "start": "6/10/2023",
+        "end": "6/14/2023"
+      },
+      "ReturnToMaxDDYearly": 10.5
+    }
+  ],
+  "tradebook": [
+    {
+      "symbol": "NIFTY08APR2114850CE.NFO",
+      "trade": "SELL",
+      "entry_time": "2021-04-05 09:30:00",
+      "entry_price": 42,
+      "exit_time": "2021-04-05 15:15:00",
+      "exit_price": 42.6,
+      "sl": 20,
+      "tsl": 22,
+      "qty": 25,
+      "pnl": 1642.5,
+      "maxLossStrategy": -92.25,
+      "maxProfitStrategy": -92.5,
+      "futureEntry": 14842.2,
+      "futureExit": 14690.8,
+      "comment": "market closed"
+    },
+    {
+      "symbol": "NIFTY08APR2114750CE.NFO",
+      "trade": "SELL",
+      "entry_time": "2021-04-05 09:30:00",
+      "entry_price": 42,
+      "exit_time": "2021-04-05 15:15:00",
+      "exit_price": 42.6,
+      "sl": 20,
+      "tsl": 22,
+      "qty": 25,
+      "pnl": 1642.5,
+      "maxLossStrategy": -92.25,
+      "maxProfitStrategy": -92.5,
+      "futureEntry": 14842.2,
+      "futureExit": 14690.8,
+      "comment": "market closed"
+    },
+    {
+      "symbol": "NIFTY08APR2114450CE.NFO",
+      "trade": "SELL",
+      "entry_time": "2021-04-05 09:30:00",
+      "entry_price": 42,
+      "exit_time": "2021-04-05 15:15:00",
+      "exit_price": 42.6,
+      "sl": 20,
+      "tsl": 22,
+      "qty": 25,
+      "pnl": 1642.5,
+      "maxLossStrategy": -92.25,
+      "maxProfitStrategy": -92.5,
+      "futureEntry": 14842.2,
+      "futureExit": 14690.8,
+      "comment": "market closed"
+    }
+  ]
+}

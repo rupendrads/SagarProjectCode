@@ -1,0 +1,60 @@
+.data-verification-input {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 15px;
+
+  .field-label {
+    margin-bottom: 0;
+    padding-right: 15px;
+  }
+
+  .label {
+    width: 80px;
+    text-align: right;
+    align-self: flex-start;
+    padding-top: 0.25rem;
+  }
+
+  .data-verification-input-cell {
+    flex-grow: 1;
+  }
+}
+
+.validate-button-row {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+
+  button {
+    width: 100px;
+  }
+}
+
+.validation-result {
+  margin-top: 15px;
+}
+
+.missing-file {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.missing-file-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.validation-result-error {
+  margin-top: 15px;
+  color: red;
+  max-width: 300px;
+}
+
+.gdfl-data-verification-container {
+  margin-left: 20px;
+  margin-right: auto;
+  min-width: 300px;
+}

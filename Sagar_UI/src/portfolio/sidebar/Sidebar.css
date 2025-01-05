@@ -1,0 +1,7 @@
+.link {
+  cursor: pointer;
+}
+
+.portfolio-list > li {
+  margin-bottom: 10px;
+}

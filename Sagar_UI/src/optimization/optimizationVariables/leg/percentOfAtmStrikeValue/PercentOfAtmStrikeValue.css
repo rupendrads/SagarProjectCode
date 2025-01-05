@@ -1,0 +1,13 @@
+.percent-of-atm-strike-value-min-max-interval-cell {
+  border: 1px solid #198754;
+  padding: 1px;
+  border-radius: 3px;
+  margin-right: 5px;
+  margin-left: 5px;
+  > div.cell {
+    margin-bottom: 0px !important;
+  }
+  > div.cell.interval {
+    margin-right: 0px !important;
+  }
+}

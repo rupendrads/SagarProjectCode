@@ -1,0 +1,298 @@
+{
+	"info": {
+		"_postman_id": "33e2791c-e987-4355-8c1b-f5c33bc921d0",
+		"name": "Sagar_Users",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "24840641",
+		"_collection_link": "https://test11-6303.postman.co/workspace/test-Workspace~4a8b2aea-a6c9-4f29-8524-cb37e19b448b/collection/24840641-33e2791c-e987-4355-8c1b-f5c33bc921d0?action=share&source=collection_link&creator=24840641"
+	},
+	"item": [
+		{
+			"name": "RegisterUser",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"id\": \"-1\",\r\n    \"username\": \"ajay.sawant3\",\r\n    \"password\": \"AB17\",\r\n    \"email\": \"ab1a111@gmail.com\",\r\n    \"emailVerificationStatus\": \"true\",\r\n    \"first_name\": \"ab2\",\r\n    \"middle_name\": \"test2\",\r\n    \"last_name\": \"satra2\",\r\n    \"mobile\": \"7992277911356\",\r\n    \"mobileVerificationStatus\": \"true\",\r\n    \"address\": \"Kurla 1/31 sanman\",\r\n    \"dateofbirth\": \"2024-10-28\",\r\n    \"risk_profile\": \"3\",\r\n    \"last_login\": \"2024-10-28 14:30:00\",\r\n    \"is_active\": \"false\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://127.0.0.1:8080/register"
+			},
+			"response": []
+		},
+		{
+			"name": "Edit User",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"username\": \"ajay.qcq1\",\r\n    \"password\": \"AB171\",\r\n    \"email\": \"ab1a112d3@gmail.com\",\r\n    \"emailVerificationStatus\": \"true\",\r\n    \"first_name\": \"ab2e\",\r\n    \"modifiedBy\": \"5\",\r\n    \"middle_name\": \"teste2\",\r\n    \"last_name\": \"satrae2\",\r\n    \"mobile\": \"1231324\",\r\n    \"mobileVerificationStatus\": \"false\",\r\n    \"address\": \"mumbai 1/31 sanman\",\r\n    \"dateofbirth\": \"2024-10-28\",\r\n    \"risk_profile\": \"3\",\r\n    \"last_login\": \"2024-10-28 14:30:00\",\r\n    \"is_active\": \"true\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://127.0.0.1:8080/edituser/1"
+			},
+			"response": []
+		},
+		{
+			"name": "AddUserBroker",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"user_id\" : \"1\",\r\n    \"broker_id\" : \"1\",\r\n    \"api_key\" : \"abvd1\",\r\n    \"api_secret\" : \"test22\",\r\n    \"market_api_key\" : \"abvd1\",\r\n    \"market_api_secret\" : \"test22\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://127.0.0.1:8080/addUserBroker"
+			},
+			"response": []
+		},
+		{
+			"name": "EditUserBroker",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"id\": \"1\",\r\n    \"user_id\" : \"1\",\r\n    \"broker_id\" : \"1\",\r\n    \"api_key\" : \"ADACQ\",\r\n    \"api_secret\" : \"ACA\",\r\n    \"market_api_key\" : \"KABFA\",\r\n    \"market_api_secret\" : \"WQD\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://127.0.0.1:8080/editUserBroker"
+			},
+			"response": []
+		},
+		{
+			"name": "DeleteUserBroker",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"id\": \"1\",\r\n    \"user_id\" : \"1\",\r\n    \"broker_id\" : \"1\",\r\n    \"api_key\" : \"ADACQ\",\r\n    \"api_secret\" : \"ACA\",\r\n    \"market_api_key\" : \"KABFA\",\r\n    \"market_api_secret\" : \"WQD\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://127.0.0.1:8080/deleteUserBroker"
+			},
+			"response": []
+		},
+		{
+			"name": "AddBroker",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"id\" : \"1\",\r\n    \"name\" : \"ABFH1\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://127.0.0.1:8080/addBroker"
+			},
+			"response": []
+		},
+		{
+			"name": "EditBroker",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"id\" : \"6\",\r\n    \"name\" : \"Testa\",\r\n    \"modifiedBy\":\"6\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://127.0.0.1:8080/editBroker/1"
+			},
+			"response": []
+		},
+		{
+			"name": "DeleteBroker",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"id\" : \"3\",\r\n    \"name\" : \"Testa\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://127.0.0.1:8080/deleteBroker"
+			},
+			"response": []
+		},
+		{
+			"name": "AddBilling",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"user_id\": \"9\",\r\n    \"billing_type\": \"subscription\",\r\n    \"subscription_type\": \"trial\",\r\n    \"subscription_fee\": \"\",\r\n    \"one_time_fee\": \"\",\r\n    \"profit_sharing_type\": \"flat\",\r\n    \"profit_sharing_flat_profit_percent\": \"\",\r\n    \"profit_sharing_flat_less_percent\": \"\",\r\n    \"profit_sharing_slabs\": [\r\n        {\r\n            \"from\": 0,\r\n            \"to\": 30,\r\n            \"profit_percent\": \"90\",\r\n            \"less_percent\": \"9\"\r\n        },\r\n        {\r\n            \"from\": 31,\r\n            \"to\": 70,\r\n            \"profit_percent\": \"80\",\r\n            \"less_percent\": \"8\"\r\n        },\r\n        {\r\n            \"from\": 71,\r\n            \"to\": 100,\r\n            \"profit_percent\": \"70\",\r\n            \"less_percent\": \"7\"\r\n        }\r\n    ]\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://127.0.0.1:8080/addBilling"
+			},
+			"response": []
+		},
+		{
+			"name": "AddModules",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"id\": \"-1\",\r\n    \"name\": \"profile\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://127.0.0.1:8080/addModules"
+			},
+			"response": []
+		},
+		{
+			"name": "AddUserAccessModules",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "[\r\n      {\r\n        \"user_id\": \"5\",\r\n        \"module_id\": \"1\",\r\n        \"enabled\": false\r\n      },\r\n      {\r\n        \"user_id\": \"9\",\r\n        \"module_id\": \"1\",\r\n        \"enabled\": false\r\n      },\r\n      {\r\n        \"user_id\": \"10\",\r\n        \"module_id\": \"1\",\r\n        \"enabled\": true\r\n      }\r\n]\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://127.0.0.1:8080/addUserAccessModules"
+			},
+			"response": []
+		},
+		{
+			"name": "GetAllModules",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://127.0.0.1:8080/getAllModules"
+			},
+			"response": []
+		},
+		{
+			"name": "GetAllBrokers",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://127.0.0.1:8080/getAllBrokers"
+			},
+			"response": []
+		},
+		{
+			"name": "GetAllUsers",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://127.0.0.1:8080/getAllUsers"
+			},
+			"response": []
+		},
+		{
+			"name": "GetAllUserBroker",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://127.0.0.1:8080/getAllUserBroker"
+			},
+			"response": []
+		},
+		{
+			"name": "GET SINGLE USER",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://127.0.0.1:8080/getUser/1"
+			},
+			"response": []
+		},
+		{
+			"name": "GetBilling by userid",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get useraccessmofules by user_id",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://127.0.0.1:8080/getUserAccessModules/1"
+			},
+			"response": []
+		},
+		{
+			"name": "EditBilling",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"url": "http://127.0.0.1:8080/editBilling/2"
+			},
+			"response": []
+		},
+		{
+			"name": "EditUserAccessModules",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"user_id\": \"1\",\r\n    \"module_id\": \"1\",\r\n    \"enabled\": true\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://127.0.0.1:8080/editUserAccessModules/3"
+			},
+			"response": []
+		}
+	]
+}

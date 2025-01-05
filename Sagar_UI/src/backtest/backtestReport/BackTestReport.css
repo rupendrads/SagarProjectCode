@@ -1,0 +1,18 @@
+.max-drawdown-label {
+  margin-bottom: 0px;
+}
+
+.max-drawdown-duration {
+  font-size: 9px;
+  color: gray;
+}
+
+.backtest-report-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  h6 {
+    margin-bottom: 0;
+  }
+}

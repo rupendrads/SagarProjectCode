@@ -1,0 +1,27 @@
+.optimization-min-max-interval-cell {
+  border: 1px solid #198754;
+  padding: 5px 0px 0px 10px;
+  border-radius: 3px;
+}
+
+.trailing-options {
+  input[type="text"] {
+    width: 55px !important;
+    max-width: 55px !important;
+  }
+}
+
+.min-max-interval {
+  input[type="text"] {
+    width: 80px;
+    max-width: 80px;
+  }
+  input[type="time"] {
+    width: 80px;
+    max-width: 80px;
+  }
+  .cell {
+    min-width: fit-content !important;
+    margin-right: 10px !important;
+  }
+}

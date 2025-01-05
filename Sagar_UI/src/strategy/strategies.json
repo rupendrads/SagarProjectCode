@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "name": "",
+    "underlying": "",
+    "strategy_type": "",
+    "implied_futures_expiry": "",
+    "entry_time": "",
+    "last_entry_time": "",
+    "exit_time": "",
+    "square_off": "",
+    "overall_sl": 0,
+    "overall_target": 0,
+    "trailing_options": "",
+    "profit_reaches": 0,
+    "lock_profit": 0,
+    "increase_in_profit": 0,
+    "trail_profit": 0,
+    "legs": [{}]
+  }
+]

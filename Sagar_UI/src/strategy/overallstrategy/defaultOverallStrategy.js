@@ -1,0 +1,18 @@
+export const defaultOverallStrategy = {
+  id: -1,
+  name: "",
+  underlying: "spot",
+  strategy_type: "intraday",
+  implied_futures_expiry: "current",
+  entry_time: "",
+  last_entry_time: "",
+  exit_time: "",
+  square_off: "complete",
+  overall_sl: 0,
+  overall_target: 0,
+  trailing_options: "lock",
+  profit_reaches: 0,
+  lock_profit: 0,
+  increase_in_profit: 0,
+  trail_profit: 0,
+};

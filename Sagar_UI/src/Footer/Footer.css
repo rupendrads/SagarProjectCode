@@ -1,0 +1,14 @@
+.App-footer {
+  background-color: #212429;
+  min-height: 80px;
+  height: 80px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: white;
+  padding: 10px;
+}
+
+.logo-credit {
+  font-size: 10px;
+}

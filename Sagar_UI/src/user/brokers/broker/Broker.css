@@ -1,0 +1,44 @@
+.broker-container {
+  .broker-input {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 15px;
+
+    .field-label {
+      margin-bottom: 0;
+      padding-right: 15px;
+    }
+
+    .label {
+      width: 320px !important;
+      text-align: left !important;
+      align-self: flex-start;
+      padding-top: 0.25rem;
+    }
+
+    .broker-input-cell {
+      flex-grow: 1;
+      .form-control {
+        width: 200px;
+      }
+    }
+  }
+
+  .broker-button-row {
+    display: flex;
+    gap: 20px;
+    width: 100%;
+    margin-top: 15px;
+    padding-left: 80px;
+
+    .theme_button {
+      width: 100%;
+    }
+
+    .ok-button {
+      border: 1px solid #198754;
+    }
+  }
+}

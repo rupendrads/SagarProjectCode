@@ -1,0 +1,11 @@
+.link {
+  cursor: pointer;
+}
+
+.strategy-list > li {
+  margin-bottom: 10px;
+}
+
+.strategy-sidebar-hr {
+  margin: 5px 0;
+}

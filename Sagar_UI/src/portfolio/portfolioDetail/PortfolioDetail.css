@@ -1,0 +1,13 @@
+.portfolio-detail-header {
+  justify-content: space-between;
+  align-items: center;
+}
+
+.portfolio-update-button-div {
+  display: flex;
+  justify-content: center;
+}
+
+.portfolio-strategy-name-link {
+  cursor: pointer;
+}

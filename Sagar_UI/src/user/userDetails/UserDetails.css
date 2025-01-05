@@ -1,0 +1,49 @@
+.user-details-container {
+  display: flex;
+  justify-content: flex-start;
+  width: fit-content;
+  min-width: 421px;
+  padding-left: 10px;
+
+  .user-details-input {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 15px;
+
+    .field-label {
+      margin-bottom: 0;
+      padding-right: 15px;
+    }
+
+    .label {
+      width: 140px;
+      text-align: right;
+      align-self: flex-start;
+      padding-top: 0.25rem;
+    }
+
+    .user-details-input-cell {
+      flex-grow: 1;
+      .form-control {
+        width: 200px;
+      }
+    }
+  }
+
+  .register-button-row {
+    width: 100%;
+    margin-top: 15px;
+    padding-left: 80px;
+
+    .theme_button {
+      width: 100%;
+    }
+  }
+}
+
+.register-error {
+  color: red;
+  margin-top: 15px;
+}

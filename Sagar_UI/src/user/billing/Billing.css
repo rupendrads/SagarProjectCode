@@ -1,0 +1,78 @@
+.billing-container {
+  display: flex;
+  justify-content: flex-start;
+  width: fit-content;
+  min-width: 421px;
+  padding-left: 10px;
+
+  .billing-input {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 15px;
+
+    .field-label {
+      margin-bottom: 0;
+      padding-right: 15px;
+    }
+
+    .label {
+      width: 140px;
+      text-align: right;
+      align-self: flex-start;
+      padding-top: 0.25rem;
+    }
+
+    .billing-input-cell {
+      flex-grow: 1;
+      .form-control {
+        width: 200px;
+      }
+    }
+  }
+
+  .billing-button-row {
+    width: 100%;
+    margin-top: 15px;
+    padding-left: 80px;
+
+    .theme_button {
+      width: 100%;
+    }
+  }
+}
+
+.profit_sharing_slab {
+  display: flex;
+  gap: 10px !important;
+  width: fit-content;
+
+  .billing-input {
+    flex-direction: column !important;
+    align-items: flex-end !important;
+
+    .label {
+      width: 90px !important;
+      text-align: right;
+    }
+
+    .field-label {
+      width: 90px;
+      max-width: 90px;
+      padding-right: 0px;
+      text-align: left;
+    }
+
+    .billing-input-cell {
+      .form-control {
+        width: 90px;
+        max-width: 90px;
+      }
+    }
+
+    input[type="text"]:disabled {
+      opacity: 0.7;
+    }
+  }
+}

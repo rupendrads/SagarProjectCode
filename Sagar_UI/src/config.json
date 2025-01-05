@@ -1,0 +1,8 @@
+{
+  "API_URL": "http://127.0.0.1:5000",
+  "BACKTEST_API_URL": "http://127.0.0.1:9003",
+  "OPTIMIZATION_API_URL": "http://127.0.0.1:9001",
+  "OPTIMIZATION_RUN_API_URL": "http://127.0.0.1:9002",
+  "DATA_UPLOAD_API_URL": "http://127.0.0.1:9000",
+  "JSON_DB": true
+}

@@ -1,0 +1,51 @@
+div[disabled] {
+  pointer-events: none;
+}
+
+#btn_backtest_strategy[disabled] {
+  background-color: #198754;
+  color: #fff;
+}
+
+.date-input-wrapper-div {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.date-input-wrapper {
+  display: flex;
+  flex-direction: row;
+  gap: 9px;
+}
+
+.extra-info-label-wrapper {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.extra-info-label {
+  margin-bottom: 0px;
+}
+
+.save-button-row {
+  justify-content: flex-end;
+  gap: 15px;
+}
+
+.index-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 9px;
+}
+
+.back-test-strategy-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.btn-import-export-strategy {
+  border: 1px solid #198754;
+}

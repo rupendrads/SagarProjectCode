@@ -1,0 +1,78 @@
+from collections import defaultdict
+
+class Publisher:
+    def __init__(self):
+        # A dictionary to keep track of which strategy is subscribed to which instrument
+        self.subscribers = defaultdict(set)
+
+    def subscribe(self, strategy, instrument):
+        """Subscribe a strategy to an instrument."""
+        self.subscribers[instrument].add(strategy)
+
+    def unsubscribe(self, strategy, instrument):
+        """Unsubscribe a strategy from an instrument."""
+        if instrument in self.subscribers and strategy in self.subscribers[instrument]:
+            self.subscribers[instrument].remove(strategy)
+            if not self.subscribers[instrument]:
+                del self.subscribers[instrument]
+
+    def publish(self, instrument, data):
+        """Publish data to all strategies subscribed to a specific instrument."""
+        if instrument in self.subscribers:
+            for strategy in self.subscribers[instrument]:
+                strategy.receive_data(instrument, data)
+
+
+class Strategy:
+    def __init__(self, name, publisher, instruments):
+        """
+        Initialize a strategy with a name, a reference to the publisher,
+        and a list of instruments to subscribe to.
+        """
+        self.name = name
+        self.publisher = publisher
+        self.subscribed_instruments = set(instruments)
+
+        # Subscribe to all instruments at initialization
+        for instrument in instruments:
+            self.publisher.subscribe(self, instrument)
+
+    def receive_data(self, instrument, data):
+        """Handle data received from the publisher."""
+        print(f"Strategy {self.name} received data for {instrument}: {data}")
+
+    def unsubscribe(self, instrument):
+        """Unsubscribe from an instrument."""
+        if instrument in self.subscribed_instruments:
+            self.publisher.unsubscribe(self, instrument)
+            self.subscribed_instruments.remove(instrument)
+
+    def subscribe(self, instrument):
+        """Subscribe to a new instrument."""
+        if instrument not in self.subscribed_instruments:
+            self.publisher.subscribe(self, instrument)
+            self.subscribed_instruments.add(instrument)
+
+# Example Usage
+
+# Create a publisher
+publisher = Publisher()
+
+# Create multiple strategies with different instrument subscriptions
+strategy1 = Strategy("Strategy1", publisher, ["AAPL", "GOOG"])
+strategy2 = Strategy("Strategy2", publisher, ["GOOG", "MSFT"])
+strategy3 = Strategy("Strategy3", publisher, ["TSLA", "AAPL"])
+
+# Publisher publishes data for specific instruments
+publisher.publish("AAPL", {"price": 150})
+publisher.publish("GOOG", {"price": 2800})
+publisher.publish("MSFT", {"price": 300})
+publisher.publish("TSLA", {"price": 900})
+
+# Output:
+# Strategy Strategy1 received data for AAPL: {'price': 150}
+# Strategy Strategy3 received data for AAPL: {'price': 150}
+# Strategy Strategy1 received data for GOOG: {'price': 2800}
+# Strategy Strategy2 received data for GOOG: {'price': 2800}
+# Strategy Strategy2 received data for MSFT: {'price': 300}
+# Strategy Strategy3 received data for TSLA: {'price': 900}

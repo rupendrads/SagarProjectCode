@@ -1,0 +1,46 @@
+Fetched 1 items from Redis
+Inserted 1 records into MySQL table: data_harvesting_20241122
+Fetched 1 items from Redis
+Inserted 1 records into MySQL table: data_harvesting_20241122
+Fetched 3 items from Redis
+Inserted 3 records into MySQL table: data_harvesting_20241122
+Fetched 1 items from Redis
+Inserted 1 records into MySQL table: data_harvesting_20241122
+Fetched 1 items from Redis
+Inserted 1 records into MySQL table: data_harvesting_20241122
+Fetched 7 items from Redis
+Error inserting data into MySQL: Error: Out of range value for column 'PercentChange' at row 7
+    at PromisePool.query (D:\Rupendra\Work\Sagar\Sagar_Dataharvesting\node_modules\mysql2\promise.js:356:22)    
+    at insertMarketDataBatch (D:\Rupendra\Work\Sagar\Sagar_Dataharvesting\Real-Time DB\data harvesting node\redis_optimized_mysql_v2.js:190:16)
+    at processQueue (D:\Rupendra\Work\Sagar\Sagar_Dataharvesting\Real-Time DB\data harvesting node\redis_optimized_mysql_v2.js:163:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'ER_WARN_DATA_OUT_OF_RANGE',
+  errno: 1264,
+  sql: '\n' +
+    '    INSERT INTO `data_harvesting_20241122` (\n' +
+    '      MessageCode, MessageVersion, ApplicationType, TokenID, ExchangeSegment, \n' +
+    '      ExchangeInstrumentID, BookType, XMarketType, LastTradedPrice, \n' +
+    '      LastTradedQuantity, LastUpdateTime, PercentChange, Close, Tradingsymbol, OverallData\n' +
+    `    ) VALUES (1512, 4, 0, 0, 2, 42932, 1, 1, 132.3, NULL, '2014-11-23 10:00:01', -70.3861219921656, 446.75, 'NIFTY24NOV23750PE', '{\\"MessageCode\\":1512,\\"MessageVersion\\":4,\\"ApplicationType\\":0,\\"TokenID\\":0,\\"ExchangeSegment\\":2,\\"ExchangeInstrumentID\\":42932,\\"BookType\\":1,\\"XMarketType\\":1,\\"LastTradedPrice\\":132.3,\\"LastTradedQunatity\\":25,\\"LastUpdateTime\\":1416756601,\\"PercentChange\\":-70.3861219921656,\\"Close\\":446.75}'), (1512, 4, 0, 0, 2, 42943, 1, 1, 165, NULL, '2014-11-23 10:00:01', 856.521739130435, 17.25, 'NIFTY24NOV23950CE', '{\\"MessageCode\\":1512,\\"MessageVersion\\":4,\\"ApplicationType\\":0,\\"TokenID\\":0,\\"ExchangeSegment\\":2,\\"ExchangeInstrumentID\\":42943,\\"BookType\\":1,\\"XMarketType\\":1,\\"LastTradedPrice\\":165,\\"LastTradedQunatity\\":25,\\"LastUpdateTime\\":1416756601,\\"PercentChange\\":856.521739130435,\\"Close\\":17.25}'), (1512, 4, 0, 0, 2, 42943, 1, 1, 165, NULL, '2014-11-23 10:00:01', 856.521739130435, 17.25, 'NIFTY24NOV23950CE', '{\\"MessageCode\\":1512,\\"MessageVersion\\":4,\\"ApplicationType\\":0,\\"TokenID\\":0,\\"ExchangeSegment\\":2,\\"ExchangeInstrumentID\\":42943,\\"BookType\\":1,\\"XMarketType\\":1,\\"LastTradedPrice\\":165,\\"LastTradedQunatity\\":25,\\"LastUpdateTime\\":1416756601,\\"PercentChange\\":856.521739130435,\\"Close\\":17.25}'), (1512, 4, 0, 0, 2, 42944, 1, 1, 208.9, NULL, '2014-11-23 10:00:01', -66.3850671815914, 621.45, 'NIFTY24NOV23950PE', '{\\"MessageCode\\":1512,\\"MessageVersion\\":4,\\"ApplicationType\\":0,\\"TokenID\\":0,\\"ExchangeSegment\\":2,\\"ExchangeInstrumentID\\":42944,\\"BookType\\":1,\\"XMarketType\\":1,\\"LastTradedPrice\\":208.9,\\"LastTradedQunatity\\":75,\\"LastUpdateTime\\":1416756601,\\"PercentChange\\":-66.3850671815914,\\"Close\\":621.45}'), (1512, 4, 0, 0, 2, 42944, 1, 1, 208.9, NULL, '2014-11-23 10:00:01', -66.3850671815914, 621.45, 'NIFTY24NOV23950PE', '{\\"MessageCode\\":1512,\\"MessageVersion\\":4,\\"ApplicationType\\":0,\\"TokenID\\":0,\\"ExchangeSegment\\":2,\\"ExchangeInstrumentID\\":42944,\\"BookType\\":1,\\"XMarketType\\":1,\\"LastTradedPrice\\":208.9,\\"LastTradedQunatity\\":75,\\"LastUpdateTime\\":1416756601,\\"PercentChange\\":-66.3850671815914,\\"Close\\":621.45}'), (1512, 4, 0, 0, 2, 42920, 1, 1, 79, NULL, '2014-11-23 10:00:01', -73.431982512191, 297.35, 'NIFTY24NOV23550PE', '{\\"MessageCode\\":1512,\\"MessageVersion\\":4,\\"ApplicationType\\":0,\\"TokenID\\":0,\\"ExchangeSegment\\":2,\\"ExchangeInstrumentID\\":42920,\\"BookType\\":1,\\"XMarketType\\":1,\\"LastTradedPrice\\":79,\\"LastTradedQunatity\\":25,\\"LastUpdateTime\\":1416756601,\\"PercentChange\\":-73.431982512191,\\"Close\\":297.35}'), (1512, 4, 0, 0, 2, 42961, 1, 1, 82, NULL, '2014-11-23 10:00:01', 1000.6711409396, 7.45, 'NIFTY24NOV24150CE', '{\\"MessageCode\\":1512,\\"MessageVersion\\":4,\\"ApplicationType\\":0,\\"TokenID\\":0,\\"ExchangeSegment\\":2,\\"ExchangeInstrumentID\\":42961,\\"BookType\\":1,\\"XMarketType\\":1,\\"LastTradedPrice\\":82,\\"LastTradedQunatity\\":50,\\"LastUpdateTime\\":1416756601,\\"PercentChange\\":1000.6711409396,\\"Close\\":7.45}')\n` +
+    '  ',
+  sqlState: '22003',
+  sqlMessage: "Out of range value for column 'PercentChange' at row 7"
+}
+Fetched 4 items from Redis
+Error inserting data into MySQL: Error: Out of range value for column 'PercentChange' at row 1
+    at PromisePool.query (D:\Rupendra\Work\Sagar\Sagar_Dataharvesting\node_modules\mysql2\promise.js:356:22)    
+    at insertMarketDataBatch (D:\Rupendra\Work\Sagar\Sagar_Dataharvesting\Real-Time DB\data harvesting node\redis_optimized_mysql_v2.js:190:16)
+    at processQueue (D:\Rupendra\Work\Sagar\Sagar_Dataharvesting\Real-Time DB\data harvesting node\redis_optimized_mysql_v2.js:163:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'ER_WARN_DATA_OUT_OF_RANGE',
+  errno: 1264,
+  sql: '\n' +
+    '    INSERT INTO `data_harvesting_20241122` (\n' +
+    '      MessageCode, MessageVersion, ApplicationType, TokenID, ExchangeSegment, \n' +
+    '      ExchangeInstrumentID, BookType, XMarketType, LastTradedPrice, \n' +
+    '      LastTradedQuantity, LastUpdateTime, PercentChange, Close, Tradingsymbol, OverallData\n' +
+    `    ) VALUES (1512, 4, 0, 0, 2, 42961, 1, 1, 82, NULL, '2014-11-23 10:00:01', 1000.6711409396, 7.45, 'NIFTY24NOV24150CE', '{\\"MessageCode\\":1512,\\"MessageVersion\\":4,\\"ApplicationType\\":0,\\"TokenID\\":0,\\"ExchangeSegment\\":2,\\"ExchangeInstrumentID\\":42961,\\"BookType\\":1,\\"XMarketType\\":1,\\"LastTradedPrice\\":82,\\"LastTradedQunatity\\":50,\\"LastUpdateTime\\":1416756601,\\"PercentChange\\":1000.6711409396,\\"Close\\":7.45}'), (1512, 4, 0, 0, 2, 42912, 1, 1, 49.5, NULL, '2014-11-23 10:00:01', -74.3190661478599, 192.75, 'NIFTY24NOV23350PE', '{\\"MessageCode\\":1512,\\"MessageVersion\\":4,\\"ApplicationType\\":0,\\"TokenID\\":0,\\"ExchangeSegment\\":2,\\"ExchangeInstrumentID\\":42912,\\"BookType\\":1,\\"XMarketType\\":1,\\"LastTradedPrice\\":49.5,\\"LastTradedQunatity\\":25,\\"LastUpdateTime\\":1416756601,\\"PercentChange\\":-74.3190661478599,\\"Close\\":192.75}'), (1512, 4, 0, 0, 2, 42912, 1, 1, 49.5, NULL, '2014-11-23 10:00:01', -74.3190661478599, 192.75, 'NIFTY24NOV23350PE', '{\\"MessageCode\\":1512,\\"MessageVersion\\":4,\\"ApplicationType\\":0,\\"TokenID\\":0,\\"ExchangeSegment\\":2,\\"ExchangeInstrumentID\\":42912,\\"BookType\\":1,\\"XMarketType\\":1,\\"LastTradedPrice\\":49.5,\\"LastTradedQunatity\\":25,\\"LastUpdateTime\\":1416756601,\\"PercentChange\\":-74.3190661478599,\\"Close\\":192.75}'), (1512, 4, 0, 0, 2, 37858, 1, 1, 8.7, NULL, '2014-11-23 10:00:01', -68.3636363636364, 27.5, 'MIDCPNIFTY24NOV11950PE', '{\\"MessageCode\\":1512,\\"MessageVersion\\":4,\\"ApplicationType\\":0,\\"TokenID\\":0,\\"ExchangeSegment\\":2,\\"ExchangeInstrumentID\\":37858,\\"BookType\\":1,\\"XMarketType\\":1,\\"LastTradedPrice\\":8.7,\\"LastTradedQunatity\\":100,\\"LastUpdateTime\\":1416756601,\\"PercentChange\\":-68.3636363636364,\\"Close\\":27.5}')\n` +   
+    '  ',
+  sqlState: '22003',
+  sqlMessage: "Out of range value for column 'PercentChange' at row 1"
+}

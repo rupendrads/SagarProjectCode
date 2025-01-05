@@ -1,0 +1,180 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
+  <diagram name="Page-1" id="v1F3wK6sDNYkLNi1lj9K">
+    <mxGraphModel dx="1056" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Gr3JtoHJqvLwOQ2UZAeN-1" value="&lt;b&gt;Publisher&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-03-128.png" vertex="1" parent="1">
+          <mxGeometry x="533.4" y="440" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Gr3JtoHJqvLwOQ2UZAeN-13" value="" style="strokeWidth=2;dashed=0;align=center;fontSize=8;html=1;shape=rect;" vertex="1" parent="1">
+          <mxGeometry x="823.4" y="355" as="geometry" />
+        </mxCell>
+        <mxCell id="Gr3JtoHJqvLwOQ2UZAeN-20" value="&lt;b&gt;WebSocket&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Broker / Sandbox&lt;/b&gt;&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="263.4" y="258.1" width="130" height="81.9" as="geometry" />
+        </mxCell>
+        <mxCell id="Gr3JtoHJqvLwOQ2UZAeN-21" value="&lt;b&gt;Sand Box&lt;/b&gt;" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#6ABD46;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.085,0.085,0],[0.915,0.085,0],[0.915,0.915,0],[0.085,0.915,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.architecture.generic_appliance;resIcon=mxgraph.cisco_safe.architecture.sandbox_appliance;" vertex="1" parent="1">
+          <mxGeometry x="90" y="131.9" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Gr3JtoHJqvLwOQ2UZAeN-26" value="&lt;b&gt;Broker&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;Market Server&lt;/b&gt;&lt;/div&gt;" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.database_server" vertex="1" parent="1">
+          <mxGeometry x="103.4" y="401.9" width="53.2" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Gr3JtoHJqvLwOQ2UZAeN-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Gr3JtoHJqvLwOQ2UZAeN-21" target="Gr3JtoHJqvLwOQ2UZAeN-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="183.4" y="290" as="sourcePoint" />
+            <mxPoint x="233.39999999999998" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gr3JtoHJqvLwOQ2UZAeN-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.337;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gr3JtoHJqvLwOQ2UZAeN-26" target="Gr3JtoHJqvLwOQ2UZAeN-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="183.4" y="290" as="sourcePoint" />
+            <mxPoint x="233.39999999999998" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gr3JtoHJqvLwOQ2UZAeN-31" value="&lt;b&gt;Subscriber&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.communications.edge_subscription;" vertex="1" parent="1">
+          <mxGeometry x="543.4" y="48.1" width="100" height="67.6" as="geometry" />
+        </mxCell>
+        <mxCell id="Gr3JtoHJqvLwOQ2UZAeN-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="Gr3JtoHJqvLwOQ2UZAeN-31" target="Gr3JtoHJqvLwOQ2UZAeN-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="483.4" y="230" as="sourcePoint" />
+            <mxPoint x="523.4" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gr3JtoHJqvLwOQ2UZAeN-34" value="&lt;b&gt;Subscribe&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;Instrument&lt;/b&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gr3JtoHJqvLwOQ2UZAeN-32">
+          <mxGeometry x="0.2801" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gr3JtoHJqvLwOQ2UZAeN-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gr3JtoHJqvLwOQ2UZAeN-20" target="Gr3JtoHJqvLwOQ2UZAeN-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="413.4" y="280" as="sourcePoint" />
+            <mxPoint x="463.4" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gr3JtoHJqvLwOQ2UZAeN-36" value="&lt;b&gt;Data Publish&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;by Websocket&lt;/b&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gr3JtoHJqvLwOQ2UZAeN-35">
+          <mxGeometry x="-0.3057" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gr3JtoHJqvLwOQ2UZAeN-37" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="Gr3JtoHJqvLwOQ2UZAeN-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="597.92" y="440" as="sourcePoint" />
+            <mxPoint x="593.3974011299434" y="119.80000000000007" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gr3JtoHJqvLwOQ2UZAeN-38" value="&lt;b&gt;Details of Subscriber Strategy&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;and instruments&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gr3JtoHJqvLwOQ2UZAeN-37">
+          <mxGeometry x="0.1987" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gr3JtoHJqvLwOQ2UZAeN-39" value="&lt;b&gt;User Specific&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;Strategy&lt;/b&gt;&lt;/div&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.startup_task;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="1213.4" y="48.1" width="80" height="83.8" as="geometry" />
+        </mxCell>
+        <mxCell id="Gr3JtoHJqvLwOQ2UZAeN-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Gr3JtoHJqvLwOQ2UZAeN-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="913.4" y="270" as="sourcePoint" />
+            <mxPoint x="643.4" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gr3JtoHJqvLwOQ2UZAeN-62" value="&lt;b&gt;Subscribe Instrument&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;Strategy Wise&lt;/b&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gr3JtoHJqvLwOQ2UZAeN-40">
+          <mxGeometry x="-0.0164" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gr3JtoHJqvLwOQ2UZAeN-42" value="&lt;b&gt;User Specific&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;Strategy&lt;/b&gt;&lt;/div&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.startup_task;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="1133.4" y="180" width="80" height="83.8" as="geometry" />
+        </mxCell>
+        <mxCell id="Gr3JtoHJqvLwOQ2UZAeN-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1103.4" y="243" as="sourcePoint" />
+            <mxPoint x="1103.4" y="93" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1103.4" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gr3JtoHJqvLwOQ2UZAeN-45" value="&lt;b&gt;User Specific&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;Indicator&lt;/b&gt;&lt;/div&gt;" style="points=[[0.005,0.09,0],[0.08,0,0],[0.76,0.25,0],[1,0.92,0],[0.91,0.995,0],[0.57,0.995,0],[0.045,0.955,0],[0.005,0.43,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.3g_4g_indicator;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1105.4" y="340" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Gr3JtoHJqvLwOQ2UZAeN-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="643.4" y="532.5" as="sourcePoint" />
+            <mxPoint x="1130.4" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1130.4" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gr3JtoHJqvLwOQ2UZAeN-51" value="Receive Data&lt;div&gt;&amp;nbsp;for instrument asked&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="Gr3JtoHJqvLwOQ2UZAeN-50">
+          <mxGeometry x="-0.149" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gr3JtoHJqvLwOQ2UZAeN-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="643.4" y="494.2" as="sourcePoint" />
+            <mxPoint x="1173.4" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1173.4" y="496.2" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gr3JtoHJqvLwOQ2UZAeN-53" value="Receive Data&lt;div&gt;&amp;nbsp;for instrument asked&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="Gr3JtoHJqvLwOQ2UZAeN-52">
+          <mxGeometry x="-0.149" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gr3JtoHJqvLwOQ2UZAeN-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="Gr3JtoHJqvLwOQ2UZAeN-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="663.4" y="468" as="sourcePoint" />
+            <mxPoint x="1253.4" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1253.4" y="468" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gr3JtoHJqvLwOQ2UZAeN-55" value="Receive Data&lt;div&gt;&amp;nbsp;for instrument asked&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="Gr3JtoHJqvLwOQ2UZAeN-54">
+          <mxGeometry x="-0.149" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gr3JtoHJqvLwOQ2UZAeN-58" value="" style="endArrow=none;html=1;rounded=0;entryX=0.065;entryY=0.768;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Gr3JtoHJqvLwOQ2UZAeN-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1103.4" y="244" as="sourcePoint" />
+            <mxPoint x="1131.4" y="238" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gr3JtoHJqvLwOQ2UZAeN-61" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1073.4" y="362" as="sourcePoint" />
+            <mxPoint x="1073.4" y="95" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1073.4" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gr3JtoHJqvLwOQ2UZAeN-60" value="" style="endArrow=none;html=1;rounded=0;entryX=0.005;entryY=0.43;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Gr3JtoHJqvLwOQ2UZAeN-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1073.4" y="361" as="sourcePoint" />
+            <mxPoint x="1113.4" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gr3JtoHJqvLwOQ2UZAeN-64" value="Information :" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="80" y="610" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gr3JtoHJqvLwOQ2UZAeN-65" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;1. SandBox Class will be isolated. This will only take data from table offline and push data to Websocket.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="80" y="640" width="630" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gr3JtoHJqvLwOQ2UZAeN-66" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;2. Subscriber Method will have only information which strategy instance/Indicator and there instrument required.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="80" y="660" width="630" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gr3JtoHJqvLwOQ2UZAeN-67" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;3. Publisher will take information of Subscriber and Publish only data required by Subscriber&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="80" y="680" width="630" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gr3JtoHJqvLwOQ2UZAeN-68" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;4. All Strategy/Indicator class will have received data method which will get data from Publisher&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="80" y="700" width="630" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,17 @@
+.roll-strike-increase-in-profit-min-max-interval-cell {
+  border: 1px solid #198754;
+  padding: 1px;
+  border-radius: 3px;
+  > div.cell {
+    margin-right: 10px !important;
+    margin-bottom: 0px !important;
+    min-width: 80px !important;
+  }
+  > div.cell.interval {
+    margin-right: 0px !important;
+  }
+  input[type="text"] {
+    width: 80px !important;
+    max-width: 80px !important;
+  }
+}

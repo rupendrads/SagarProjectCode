@@ -1,0 +1,79 @@
+.gdfl-upload-container {
+  margin-left: 20px;
+  margin-right: auto;
+  min-width: 300px;
+}
+
+.file-item {
+  display: flex;
+  gap: 10px;
+
+  .upload-status-icon {
+    width: 20px;
+  }
+
+  .upload-file-name {
+    width: 300px;
+    max-width: 350px;
+    word-wrap: break-word;
+  }
+
+  .upload-status {
+    flex-grow: 1;
+    word-wrap: break-word;
+  }
+}
+
+.progress {
+  height: 10px;
+  margin-bottom: 15px;
+}
+
+.file-counter {
+  color: gray;
+  margin-bottom: 10px;
+  font-weight: 600;
+}
+
+.base-path-wrapper {
+  margin-bottom: 15px;
+  gap: 10px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+
+  label {
+    margin-bottom: 0px;
+  }
+
+  .base-path-input-text-cell {
+    width: 400px;
+    max-width: 400px;
+  }
+}
+
+.force-upload-wrapper {
+  margin-bottom: 15px;
+  gap: 20px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+
+  > div {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10px;
+  }
+
+  label {
+    margin-bottom: 0px;
+  }
+}
+
+.upload-failed {
+  color: #ff0000;
+}

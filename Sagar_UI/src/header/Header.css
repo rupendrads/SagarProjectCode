@@ -1,0 +1,32 @@
+.App-logo {
+  height: 50px;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #212429;
+  height: 80px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  border-bottom: 2px solid black;
+}
+
+.navbar {
+  justify-content: space-between;
+}
+
+.dropdown-item {
+  background-color: #212429;
+  color: #ffffff;
+}
+
+.dropdown-menu {
+  padding-top: 0;
+  padding-bottom: 0;
+  border: 1px solid black;
+  border-radius: 0;
+}

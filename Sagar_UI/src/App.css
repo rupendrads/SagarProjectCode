@@ -1,0 +1,140 @@
+.App {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.main {
+  margin: 20px auto;
+  width: 100%;
+  display: flex;
+  flex-grow: 1;
+
+  .sidebar {
+    width: 200px;
+    min-width: 200px;
+  }
+
+  .sidebar[disabled] {
+    pointer-events: none;
+    opacity: 0.7;
+  }
+
+  .content {
+    width: 100%;
+  }
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-bottom: 0px;
+  width: 100%;
+
+  .flex-row {
+    margin-bottom: 0px;
+    width: max-content;
+  }
+}
+
+.field-label {
+  color: #4a4949;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.box {
+  padding: 10px 15px;
+}
+
+.box-title {
+  color: #198754;
+}
+
+.dialog-header {
+  color: #198754;
+}
+
+.theme_button {
+  background-color: #198754;
+  color: #fff;
+}
+.theme_button:hover {
+  background-color: #198754;
+  color: #fff;
+}
+
+.table > thead th {
+  background-color: #90ee90;
+  color: #454545;
+}
+
+.btn-cancel {
+  margin-left: 10px;
+}
+
+.btn {
+  --bs-btn-padding-x: 8px;
+  --bs-btn-padding-y: 5px;
+  --bs-btn-font-size: 14px;
+}
+
+select {
+  min-width: 60px;
+}
+
+.number {
+  text-align: right;
+}
+
+.number-center {
+  text-align: center;
+}
+
+.flex-center {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+input[type="text"],
+input[type="number"],
+input[type="date"],
+input[type="time"],
+input[type="password"] {
+  border: 1px solid #198754;
+}
+
+.textarea {
+  border: 1px solid #198754;
+}
+
+.form-select {
+  border: 1px solid #198754;
+}
+
+.input-error {
+  color: red;
+  text-align: right;
+}
+
+.show-hide-button {
+  width: 25px;
+  height: 25px;
+  border: 1px solid #198754;
+  border-radius: 50%;
+}
+
+div[disabled] {
+  opacity: 0.75;
+}
+
+.form-check-input {
+  border: 1px solid #198754;
+}
+
+.form-check-input:checked {
+  background-color: #198754;
+}

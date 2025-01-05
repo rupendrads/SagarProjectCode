@@ -1,0 +1,11 @@
+.last-entry-time-min-max-interval-cell {
+  border: 1px solid #198754;
+  padding: 1px;
+  border-radius: 3px;
+  > div.cell {
+    margin-bottom: 0px !important;
+  }
+  > div.cell.interval {
+    margin-right: 0px !important;
+  }
+}
